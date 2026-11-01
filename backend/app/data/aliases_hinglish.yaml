@@ -1,0 +1,2128 @@
+commodities:
+- id: sku_aashirvaad_atta_5kg
+  name: Aashirvaad Whole Wheat Atta 5kg
+  brand: Aashirvaad
+  category: Atta & flours
+  standard_unit: packet
+  aliases:
+  - aashirvaad whole wheat atta 5kg
+  - aashirvaad atta
+  - aashirvad aata
+  - ashirwad atta
+  - ashirvaad wheat flour
+  - gehu ka aata
+  - chakki atta
+  - atta
+  - aata
+  - आशीर्वाद आटा
+  - आटा
+  - गेहूं का आटा
+  - चक्की आटा
+  - आशीर्वाद
+  - aashirvaadwholewheatatta5kg
+  - aashirvaadatta
+  - aashirvadaata
+  - ashirwadatta
+  - ashirvaadwheatflour
+  - gehukaaata
+  - chakkiatta
+  - आशीर्वादआटा
+  - गेहूंकाआटा
+  - चक्कीआटा
+- id: sku_pillsbury_atta_5kg
+  name: Pillsbury Chakki Fresh Atta 5kg
+  brand: Pillsbury
+  category: Atta & flours
+  standard_unit: packet
+  aliases:
+  - pillsbury chakki fresh atta 5kg
+  - pillsbury atta
+  - pillsbury aata
+  - pillsbury chakki fresh
+  - pillsbury flour
+  - पिल्सबरी आटा
+  - पिल्सबरी
+  - pillsburychakkifreshatta5kg
+  - pillsburyatta
+  - pillsburyaata
+  - pillsburychakkifresh
+  - pillsburyflour
+  - पिल्सबरीआटा
+- id: sku_fortune_besan_500g
+  name: Fortune Besan 500g
+  brand: Fortune
+  category: Atta & flours
+  standard_unit: packet
+  aliases:
+  - fortune besan 500g
+  - fortune besan
+  - besan
+  - gram flour
+  - chana aata
+  - chana dal flour
+  - baisan
+  - बेसन
+  - फॉर्च्यून बेसन
+  - चना आटा
+  - चने का आटा
+  - fortunebesan500g
+  - fortunebesan
+  - gramflour
+  - chanaaata
+  - chanadalflour
+  - फॉर्च्यूनबेसन
+  - चनाआटा
+  - चनेकाआटा
+- id: sku_sooji_fine_500g
+  name: Sooji Fine Rava 500g
+  brand: Local Mandi
+  category: Atta & flours
+  standard_unit: packet
+  aliases:
+  - sooji fine rava 500g
+  - sooji
+  - suji
+  - rava
+  - semolina
+  - fine sooji
+  - suji packet
+  - सूजी
+  - रवा
+  - सुजी
+  - soojifinerava500g
+  - finesooji
+  - sujipacket
+- id: sku_maida_fine_1kg
+  name: Rajdhani Fine Maida 1kg
+  brand: Rajdhani
+  category: Atta & flours
+  standard_unit: packet
+  aliases:
+  - rajdhani fine maida 1kg
+  - maida
+  - rajdhani maida
+  - refined flour
+  - all purpose flour
+  - white flour
+  - meda
+  - मैदा
+  - राजधानी मैदा
+  - मैदा पैकेट
+  - rajdhanifinemaida1kg
+  - rajdhanimaida
+  - refinedflour
+  - allpurposeflour
+  - whiteflour
+  - राजधानीमैदा
+  - मैदापैकेट
+- id: sku_rajdhani_sattu_500g
+  name: Rajdhani Chana Sattu 500g
+  brand: Rajdhani
+  category: Atta & flours
+  standard_unit: packet
+  aliases:
+  - rajdhani chana sattu 500g
+  - sattu
+  - chana sattu
+  - rajdhani sattu
+  - roasted gram flour
+  - satua
+  - सत्तू
+  - चना सत्तू
+  - राजधानी सत्तू
+  - rajdhanichanasattu500g
+  - chanasattu
+  - rajdhanisattu
+  - roastedgramflour
+  - चनासत्तू
+  - राजधानीसत्तू
+- id: sku_india_gate_basmati_5kg
+  name: India Gate Basmati Rice 5kg
+  brand: India Gate
+  category: Rice
+  standard_unit: packet
+  aliases:
+  - india gate basmati rice 5kg
+  - india gate basmati
+  - india gate rice
+  - basmati rice
+  - basmati chawal
+  - india gate chawal
+  - इंडिया गेट बासमती
+  - बासमती चावल
+  - इंडिया गेट चावल
+  - बासमती
+  - indiagatebasmatirice5kg
+  - indiagatebasmati
+  - indiagaterice
+  - basmatirice
+  - basmatichawal
+  - indiagatechawal
+  - इंडियागेटबासमती
+  - बासमतीचावल
+  - इंडियागेटचावल
+- id: sku_daawat_rozana_5kg
+  name: Daawat Rozana Gold Basmati Rice 5kg
+  brand: Daawat
+  category: Rice
+  standard_unit: packet
+  aliases:
+  - daawat rozana gold basmati rice 5kg
+  - daawat rozana
+  - daawat rice
+  - rozana gold
+  - dawat chawal
+  - daawat basmati
+  - दावत रोज़ाना
+  - दावत चावल
+  - रोज़ाना चावल
+  - daawatrozanagoldbasmatirice5kg
+  - daawatrozana
+  - daawatrice
+  - rozanagold
+  - dawatchawal
+  - daawatbasmati
+  - दावतरोज़ाना
+  - दावतचावल
+  - रोज़ानाचावल
+- id: sku_kohinoor_sella_1kg
+  name: Kohinoor Sella Basmati Rice 1kg
+  brand: Kohinoor
+  category: Rice
+  standard_unit: packet
+  aliases:
+  - kohinoor sella basmati rice 1kg
+  - kohinoor sella
+  - sella rice
+  - sella chawal
+  - kohinoor rice
+  - kohinoor basmati
+  - कोहिनूर सेला
+  - सेला चावल
+  - कोहिनूर
+  - kohinoorsellabasmatirice1kg
+  - kohinoorsella
+  - sellarice
+  - sellachawal
+  - kohinoorrice
+  - kohinoorbasmati
+  - कोहिनूरसेला
+  - सेलाचावल
+- id: sku_lal_qilla_basmati_1kg
+  name: Lal Qilla Basmati Rice 1kg
+  brand: Lal Qilla
+  category: Rice
+  standard_unit: packet
+  aliases:
+  - lal qilla basmati rice 1kg
+  - lal qilla basmati
+  - lal quila rice
+  - biryani chawal
+  - lal qilla chawal
+  - लाल किला बासमती
+  - लाल किला चावल
+  - बिरयानी चावल
+  - lalqillabasmatirice1kg
+  - lalqillabasmati
+  - lalquilarice
+  - biryanichawal
+  - lalqillachawal
+  - लालकिलाबासमती
+  - लालकिलाचावल
+  - बिरयानीचावल
+- id: sku_kolam_rice_10kg
+  name: Wada Kolam Steam Rice (10kg Bori)
+  brand: Mandi Direct
+  category: Rice
+  standard_unit: bori
+  aliases:
+  - wada kolam steam rice (10kg bori)
+  - kolam rice
+  - wada kolam
+  - kolam chawal
+  - steam rice
+  - kolam bori
+  - कोलम चावल
+  - वाडा कोलम
+  - कोलम बोरी
+  - wadakolamsteamrice(10kgbori)
+  - kolamrice
+  - wadakolam
+  - kolamchawal
+  - steamrice
+  - kolambori
+  - कोलमचावल
+  - वाडाकोलम
+  - कोलमबोरी
+- id: sku_sona_masoori_25kg
+  name: Sona Masoori Raw Rice (25kg Bori)
+  brand: Mandi Direct
+  category: Rice
+  standard_unit: bori
+  aliases:
+  - sona masoori raw rice (25kg bori)
+  - sona masoori
+  - sona masuri
+  - sona masoori rice
+  - sona masoori chawal
+  - masoori bori
+  - सोना मसूरी
+  - सोना मसूरी चावल
+  - सोना मसूरी बोरी
+  - sonamasoorirawrice(25kgbori)
+  - sonamasoori
+  - sonamasuri
+  - sonamasooririce
+  - sonamasoorichawal
+  - masooribori
+  - सोनामसूरी
+  - सोनामसूरीचावल
+  - सोनामसूरीबोरी
+- id: sku_tata_arhar_dal_50kg
+  name: Tata Sampann Arhar Toor Dal (50kg Bori)
+  brand: Tata Sampann
+  category: Dals & pulses
+  standard_unit: bori
+  aliases:
+  - tata sampann arhar toor dal (50kg bori)
+  - arhar dal
+  - toor dal
+  - tur dal
+  - tuar dal
+  - arhar ki dal
+  - tata toor dal
+  - arhar dal bori
+  - dal
+  - अरहर दाल
+  - तूर दाल
+  - अरहर की दाल
+  - दाल
+  - अरहर
+  - tatasampannarhartoordal(50kgbori)
+  - arhardal
+  - toordal
+  - turdal
+  - tuardal
+  - arharkidal
+  - tatatoordal
+  - arhardalbori
+  - अरहरदाल
+  - तूरदाल
+  - अरहरकीदाल
+- id: sku_fortune_moong_dal_1kg
+  name: Fortune Moong Dal Dhuli 1kg
+  brand: Fortune
+  category: Dals & pulses
+  standard_unit: packet
+  aliases:
+  - fortune moong dal dhuli 1kg
+  - moong dal
+  - mung dal
+  - fortune moong
+  - yellow moong
+  - moong dhuli
+  - मूंग दाल
+  - मूंग धुली
+  - फॉर्च्यून मूंग
+  - fortunemoongdaldhuli1kg
+  - moongdal
+  - mungdal
+  - fortunemoong
+  - yellowmoong
+  - moongdhuli
+  - मूंगदाल
+  - मूंगधुली
+  - फॉर्च्यूनमूंग
+- id: sku_urad_dal_black_1kg
+  name: Urad Dal Black Chilka 1kg
+  brand: Mandi Direct
+  category: Dals & pulses
+  standard_unit: packet
+  aliases:
+  - urad dal black chilka 1kg
+  - urad dal
+  - urad kali
+  - black urad
+  - kali dal
+  - urad chilka
+  - उड़द दाल
+  - काली दाल
+  - उड़द छिलका
+  - uraddalblackchilka1kg
+  - uraddal
+  - uradkali
+  - blackurad
+  - kalidal
+  - uradchilka
+  - उड़ददाल
+  - कालीदाल
+  - उड़दछिलका
+- id: sku_chana_dal_1kg
+  name: Chana Dal Premium 1kg
+  brand: Mandi Direct
+  category: Dals & pulses
+  standard_unit: packet
+  aliases:
+  - chana dal premium 1kg
+  - chana dal
+  - chana ki dal
+  - bengal gram dal
+  - chane ki dal
+  - चना दाल
+  - चने की दाल
+  - chanadalpremium1kg
+  - chanadal
+  - chanakidal
+  - bengalgramdal
+  - chanekidal
+  - चनादाल
+  - चनेकीदाल
+- id: sku_masoor_dal_1kg
+  name: Masoor Dal Malka Red 1kg
+  brand: Mandi Direct
+  category: Dals & pulses
+  standard_unit: packet
+  aliases:
+  - masoor dal malka red 1kg
+  - masoor dal
+  - red masoor
+  - malka masoor
+  - masur dal
+  - मसूर दाल
+  - लाल मसूर
+  - मलका मसूर
+  - masoordalmalkared1kg
+  - masoordal
+  - redmasoor
+  - malkamasoor
+  - masurdal
+  - मसूरदाल
+  - लालमसूर
+  - मलकामसूर
+- id: sku_chitra_rajma_1kg
+  name: Chitra Rajma Premium 1kg
+  brand: Mandi Direct
+  category: Dals & pulses
+  standard_unit: packet
+  aliases:
+  - chitra rajma premium 1kg
+  - rajma
+  - chitra rajma
+  - rajmah
+  - kashmiri rajma
+  - kidney beans
+  - राजमा
+  - चित्रा राजमा
+  - कश्मीरी राजमा
+  - chitrarajmapremium1kg
+  - chitrarajma
+  - kashmirirajma
+  - kidneybeans
+  - चित्राराजमा
+  - कश्मीरीराजमा
+- id: sku_kabuli_chana_1kg
+  name: Kabuli Chana Dollar Quality 1kg
+  brand: Mandi Direct
+  category: Dals & pulses
+  standard_unit: packet
+  aliases:
+  - kabuli chana dollar quality 1kg
+  - kabuli chana
+  - safed chana
+  - white chickpeas
+  - chhole chana
+  - dollar chana
+  - काबुली चना
+  - सफेद चना
+  - छोले चना
+  - डॉलर चना
+  - kabulichanadollarquality1kg
+  - kabulichana
+  - safedchana
+  - whitechickpeas
+  - chholechana
+  - dollarchana
+  - काबुलीचना
+  - सफेदचना
+  - छोलेचना
+  - डॉलरचना
+- id: sku_bail_kolhu_1l
+  name: Bail Kolhu Mustard Oil (12x1L Carton)
+  brand: Bail Kolhu
+  category: Edible oils & ghee
+  standard_unit: peti
+  aliases:
+  - bail kolhu mustard oil (12x1l carton)
+  - bail kolhu
+  - bail kolhu tel
+  - bail kolhu mustard oil
+  - sarson tel
+  - sarson ka tel
+  - mustard oil
+  - tel
+  - sarson
+  - बैल कोल्हू
+  - बैल कोल्हू तेल
+  - सरसों तेल
+  - सरसों का तेल
+  - तेल
+  - bailkolhumustardoil(12x1lcarton)
+  - bailkolhu
+  - bailkolhutel
+  - bailkolhumustardoil
+  - sarsontel
+  - sarsonkatel
+  - mustardoil
+  - बैलकोल्हू
+  - बैलकोल्हूतेल
+  - सरसोंतेल
+  - सरसोंकातेल
+- id: sku_fortune_sunflower_1l
+  name: Fortune Sunlite Sunflower Oil (12x1L Carton)
+  brand: Fortune
+  category: Edible oils & ghee
+  standard_unit: peti
+  aliases:
+  - fortune sunlite sunflower oil (12x1l carton)
+  - fortune sunflower
+  - sunflower oil
+  - surajmukhi tel
+  - fortune oil
+  - fortune refined
+  - फॉर्च्यून तेल
+  - सूरजमुखी तेल
+  - फॉर्च्यून सनफ्लावर
+  - fortunesunlitesunfloweroil(12x1lcarton)
+  - fortunesunflower
+  - sunfloweroil
+  - surajmukhitel
+  - fortuneoil
+  - fortunerefined
+  - फॉर्च्यूनतेल
+  - सूरजमुखीतेल
+  - फॉर्च्यूनसनफ्लावर
+- id: sku_saffola_gold_1l
+  name: Saffola Gold Blended Edible Oil 1L
+  brand: Saffola
+  category: Edible oils & ghee
+  standard_unit: packet
+  aliases:
+  - saffola gold blended edible oil 1l
+  - saffola gold
+  - saffola oil
+  - saffola refined
+  - cooking oil saffola
+  - सफोला गोल्ड
+  - सफोला तेल
+  - सफोला
+  - saffolagoldblendededibleoil1l
+  - saffolagold
+  - saffolaoil
+  - saffolarefined
+  - cookingoilsaffola
+  - सफोलागोल्ड
+  - सफोलातेल
+- id: sku_amul_pure_ghee_1l
+  name: Amul Pure Ghee 1L Tin
+  brand: Amul
+  category: Edible oils & ghee
+  standard_unit: packet
+  aliases:
+  - amul pure ghee 1l tin
+  - amul ghee
+  - desi ghee
+  - amul pure ghee
+  - ghee 1l
+  - amul desi ghee
+  - ghee
+  - अमूल घी
+  - देसी घी
+  - अमूल देसी घी
+  - घी
+  - amulpureghee1ltin
+  - amulghee
+  - desighee
+  - amulpureghee
+  - ghee1l
+  - amuldesighee
+  - अमूलघी
+  - देसीघी
+  - अमूलदेसीघी
+- id: sku_dhara_groundnut_1l
+  name: Dhara Filtered Groundnut Oil 1L
+  brand: Dhara
+  category: Edible oils & ghee
+  standard_unit: packet
+  aliases:
+  - dhara filtered groundnut oil 1l
+  - dhara oil
+  - groundnut oil
+  - mungfali tel
+  - singdana tel
+  - dhara groundnut
+  - धारा तेल
+  - मूंगफली तेल
+  - धारा मूंगफली
+  - dharafilteredgroundnutoil1l
+  - dharaoil
+  - groundnutoil
+  - mungfalitel
+  - singdanatel
+  - dharagroundnut
+  - धारातेल
+  - मूंगफलीतेल
+  - धारामूंगफली
+- id: sku_dalda_vanaspati_1l
+  name: Dalda Vanaspati Ghee 1L
+  brand: Dalda
+  category: Edible oils & ghee
+  standard_unit: packet
+  aliases:
+  - dalda vanaspati ghee 1l
+  - dalda
+  - dalda ghee
+  - vanaspati
+  - vanaspati ghee
+  - dalda vanaspati
+  - डालडा
+  - डालडा घी
+  - वनस्पति घी
+  - daldavanaspatighee1l
+  - daldaghee
+  - vanaspatighee
+  - daldavanaspati
+  - डालडाघी
+  - वनस्पतिघी
+- id: sku_mdh_deggi_mirch_100g
+  name: MDH Deggi Mirch 100g
+  brand: MDH
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - mdh deggi mirch 100g
+  - mdh deggi mirch
+  - deggi mirch
+  - lal mirch
+  - chilli powder
+  - mdh mirch
+  - एमडीएच देगी मिर्च
+  - देगी मिर्च
+  - लाल मिर्च
+  - mdhdeggimirch100g
+  - mdhdeggimirch
+  - deggimirch
+  - lalmirch
+  - chillipowder
+  - mdhmirch
+  - एमडीएचदेगीमिर्च
+  - देगीमिर्च
+  - लालमिर्च
+- id: sku_everest_garam_masala_100g
+  name: Everest Garam Masala 100g
+  brand: Everest
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - everest garam masala 100g
+  - everest garam masala
+  - garam masala
+  - everest masala
+  - garam masalo
+  - एवरेस्ट गरम मसाला
+  - गरम मसाला
+  - everestgarammasala100g
+  - everestgarammasala
+  - garammasala
+  - everestmasala
+  - garammasalo
+  - एवरेस्टगरममसाला
+  - गरममसाला
+- id: sku_catch_coriander_100g
+  name: Catch Coriander Powder 100g
+  brand: Catch
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - catch coriander powder 100g
+  - catch coriander
+  - dhaniya powder
+  - dhaniya
+  - coriander powder catch
+  - कैच धनिया
+  - धनिया पाउडर
+  - धनिया
+  - catchcorianderpowder100g
+  - catchcoriander
+  - dhaniyapowder
+  - corianderpowdercatch
+  - कैचधनिया
+  - धनियापाउडर
+- id: sku_tata_turmeric_100g
+  name: Tata Sampann Turmeric Haldi 100g
+  brand: Tata Sampann
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - tata sampann turmeric haldi 100g
+  - tata haldi
+  - haldi powder
+  - turmeric powder
+  - tata turmeric
+  - haldi
+  - टाटा हल्दी
+  - हल्दी पाउडर
+  - हल्दी
+  - tatasampannturmerichaldi100g
+  - tatahaldi
+  - haldipowder
+  - turmericpowder
+  - tataturmeric
+  - टाटाहल्दी
+  - हल्दीपाउडर
+- id: sku_everest_chaat_100g
+  name: Everest Chaat Masala 100g
+  brand: Everest
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - everest chaat masala 100g
+  - everest chaat masala
+  - chat masala
+  - chaat masala
+  - एवरेस्ट चाट मसाला
+  - चाट मसाला
+  - everestchaatmasala100g
+  - everestchaatmasala
+  - chatmasala
+  - chaatmasala
+  - एवरेस्टचाटमसाला
+  - चाटमसाला
+- id: sku_catch_jeera_200g
+  name: Catch Whole Cumin Seeds Jeera 200g
+  brand: Catch
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - catch whole cumin seeds jeera 200g
+  - catch jeera
+  - jeera
+  - cumin seeds
+  - sabut jeera
+  - zeera
+  - कैच जीरा
+  - जीरा
+  - साबुत जीरा
+  - catchwholecuminseedsjeera200g
+  - catchjeera
+  - cuminseeds
+  - sabutjeera
+  - कैचजीरा
+  - साबुतजीरा
+- id: sku_catch_rai_200g
+  name: Catch Mustard Seeds Rai 200g
+  brand: Catch
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - catch mustard seeds rai 200g
+  - catch rai
+  - rai
+  - mustard seeds
+  - sarson dana
+  - black mustard
+  - कैच राई
+  - राई
+  - सरसों दाना
+  - catchmustardseedsrai200g
+  - catchrai
+  - mustardseeds
+  - sarsondana
+  - blackmustard
+  - कैचराई
+  - सरसोंदाना
+- id: sku_everest_sambhar_100g
+  name: Everest Sambhar Masala 100g
+  brand: Everest
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - everest sambhar masala 100g
+  - everest sambhar masala
+  - sambhar masala
+  - sambar powder
+  - एवरेस्ट सांभर मसाला
+  - सांभर मसाला
+  - everestsambharmasala100g
+  - everestsambharmasala
+  - sambharmasala
+  - sambarpowder
+  - एवरेस्टसांभरमसाला
+  - सांभरमसाला
+- id: sku_everest_chhole_100g
+  name: Everest Chhole Masala 100g
+  brand: Everest
+  category: Spices & masalas
+  standard_unit: packet
+  aliases:
+  - everest chhole masala 100g
+  - everest chhole masala
+  - chhole masala
+  - chana masala
+  - एवरेस्ट छोले मसाला
+  - छोले मसाला
+  - everestchholemasala100g
+  - everestchholemasala
+  - chholemasala
+  - chanamasala
+  - एवरेस्टछोलेमसाला
+  - छोलेमसाला
+- id: sku_catch_hing_50g
+  name: Catch Compounded Asafoetida Hing 50g
+  brand: Catch
+  category: Spices & masalas
+  standard_unit: dabba
+  aliases:
+  - catch compounded asafoetida hing 50g
+  - catch hing
+  - hing
+  - asafoetida
+  - heeng
+  - bandhani hing
+  - कैच हींग
+  - हींग
+  - हिंग
+  - catchcompoundedasafoetidahing50g
+  - catchhing
+  - bandhanihing
+  - कैचहींग
+- id: sku_tata_salt_50kg
+  name: Tata Salt Iodized (50x1kg Bori)
+  brand: Tata
+  category: Salt, sugar & sweeteners
+  standard_unit: bori
+  aliases:
+  - tata salt iodized (50x1kg bori)
+  - tata salt
+  - tata salt bori
+  - namak
+  - salt bori
+  - tata namak
+  - salt
+  - टाटा नमक
+  - नमक
+  - टाटा नमक बोरी
+  - tatasaltiodized(50x1kgbori)
+  - tatasalt
+  - tatasaltbori
+  - saltbori
+  - tatanamak
+  - टाटानमक
+  - टाटानमकबोरी
+- id: sku_madhur_sugar_50kg
+  name: Madhur Sugar (50kg Katta)
+  brand: Madhur
+  category: Salt, sugar & sweeteners
+  standard_unit: katta
+  aliases:
+  - madhur sugar (50kg katta)
+  - madhur sugar
+  - chini
+  - cheeni
+  - sugar katta
+  - chini katta
+  - sakkar
+  - shakkar
+  - मधुर चीनी
+  - चीनी
+  - शक्कर
+  - चीनी कट्टा
+  - साखर
+  - madhursugar(50kgkatta)
+  - madhursugar
+  - sugarkatta
+  - chinikatta
+  - मधुरचीनी
+  - चीनीकट्टा
+- id: sku_tata_sendha_namak_1kg
+  name: Tata Rock Salt Sendha Namak 1kg
+  brand: Tata
+  category: Salt, sugar & sweeteners
+  standard_unit: packet
+  aliases:
+  - tata rock salt sendha namak 1kg
+  - sendha namak
+  - rock salt
+  - vrat namak
+  - lahori namak
+  - pink salt
+  - सेंधा नमक
+  - सेंधा नमक पैकेट
+  - व्रत का नमक
+  - tatarocksaltsendhanamak1kg
+  - sendhanamak
+  - rocksalt
+  - vratnamak
+  - lahorinamak
+  - pinksalt
+  - सेंधानमक
+  - सेंधानमकपैकेट
+  - व्रतकानमक
+- id: sku_kolhapuri_jaggery_1kg
+  name: Pure Kolhapuri Jaggery Gur 1kg
+  brand: Mandi Direct
+  category: Salt, sugar & sweeteners
+  standard_unit: packet
+  aliases:
+  - pure kolhapuri jaggery gur 1kg
+  - jaggery
+  - gur
+  - gud
+  - kolhapuri gur
+  - desi gud
+  - bheli
+  - गुड़
+  - देसी गुड़
+  - कोल्हापुरी गुड़
+  - गुड
+  - purekolhapurijaggerygur1kg
+  - kolhapurigur
+  - desigud
+  - देसीगुड़
+  - कोल्हापुरीगुड़
+- id: sku_tata_tea_gold_500g
+  name: Tata Tea Gold 500g
+  brand: Tata
+  category: Tea, coffee & drinks
+  standard_unit: packet
+  aliases:
+  - tata tea gold 500g
+  - tata tea gold
+  - tata tea
+  - chai patti
+  - tata gold
+  - chai
+  - tea
+  - टाटा टी गोल्ड
+  - टाटा चाय
+  - चाय पत्ती
+  - चाय
+  - tatateagold500g
+  - tatateagold
+  - tatatea
+  - chaipatti
+  - tatagold
+  - टाटाटीगोल्ड
+  - टाटाचाय
+  - चायपत्ती
+- id: sku_red_label_tea_500g
+  name: Brooke Bond Red Label Tea 500g
+  brand: Brooke Bond
+  category: Tea, coffee & drinks
+  standard_unit: packet
+  aliases:
+  - brooke bond red label tea 500g
+  - red label
+  - red label tea
+  - brooke bond
+  - red label chai
+  - रेड लेबल
+  - रेड लेबल चाय
+  - ब्रुक बॉन्ड
+  - brookebondredlabeltea500g
+  - redlabel
+  - redlabeltea
+  - brookebond
+  - redlabelchai
+  - रेडलेबल
+  - रेडलेबलचाय
+  - ब्रुकबॉन्ड
+- id: sku_taj_mahal_tea_500g
+  name: Brooke Bond Taj Mahal Tea 500g
+  brand: Brooke Bond
+  category: Tea, coffee & drinks
+  standard_unit: packet
+  aliases:
+  - brooke bond taj mahal tea 500g
+  - taj mahal tea
+  - taj mahal chai
+  - taj tea
+  - ताज महल चाय
+  - ताज महल
+  - brookebondtajmahaltea500g
+  - tajmahaltea
+  - tajmahalchai
+  - tajtea
+  - ताजमहलचाय
+  - ताजमहल
+- id: sku_nescafe_classic_100g
+  name: Nescafe Classic Coffee Jar 100g
+  brand: Nescafe
+  category: Tea, coffee & drinks
+  standard_unit: dabba
+  aliases:
+  - nescafe classic coffee jar 100g
+  - nescafe classic
+  - nescafe
+  - coffee
+  - nescafe jar
+  - coffee jar
+  - नेस्कैफे
+  - कॉफी
+  - नेस्कैफे क्लासिक
+  - nescafeclassiccoffeejar100g
+  - nescafeclassic
+  - nescafejar
+  - coffeejar
+  - नेस्कैफेक्लासिक
+- id: sku_bournvita_500g
+  name: Cadbury Bournvita Chocolate 500g
+  brand: Cadbury
+  category: Tea, coffee & drinks
+  standard_unit: dabba
+  aliases:
+  - cadbury bournvita chocolate 500g
+  - bournvita
+  - cadbury bournvita
+  - health drink
+  - bornvita
+  - बॉर्नविटा
+  - बोर्नविटा
+  - कैडबरी बॉर्नविटा
+  - cadburybournvitachocolate500g
+  - cadburybournvita
+  - healthdrink
+  - कैडबरीबॉर्नविटा
+- id: sku_rooh_afza_750ml
+  name: Hamdard Rooh Afza Sharbat 750ml
+  brand: Hamdard
+  category: Tea, coffee & drinks
+  standard_unit: bottle
+  aliases:
+  - hamdard rooh afza sharbat 750ml
+  - rooh afza
+  - hamdard rooh afza
+  - gulab sharbat
+  - roohafza
+  - sharbat
+  - रूह अफ़ज़ा
+  - रूहअफ़ज़ा
+  - हमदर्द रूह अफ़ज़ा
+  - शरबत
+  - hamdardroohafzasharbat750ml
+  - hamdardroohafza
+  - gulabsharbat
+  - हमदर्दरूहअफ़ज़ा
+- id: sku_parle_g_800g
+  name: Parle-G Glucose Biscuits (24x800g Carton)
+  brand: Parle
+  category: Biscuits & snacks
+  standard_unit: carton
+  aliases:
+  - parle-g glucose biscuits (24x800g carton)
+  - parle g
+  - parle-g
+  - parle
+  - parleg
+  - parle ji
+  - parle jee
+  - parley g
+  - parli g
+  - biscuit
+  - biskut
+  - glucose biscuit
+  - पारले जी
+  - पारले-जी
+  - पारले
+  - पारलेजी
+  - बिस्कुट
+  - ग्लूकोज बिस्कुट
+  - parle g glucose biscuits (24x800g carton)
+  - parle-gglucosebiscuits(24x800gcarton)
+  - parleji
+  - parlejee
+  - parleyg
+  - parlig
+  - glucosebiscuit
+  - ग्लूकोजबिस्कुट
+- id: sku_good_day_cashew_600g
+  name: Britannia Good Day Cashew 600g
+  brand: Britannia
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - britannia good day cashew 600g
+  - good day
+  - good day biscuit
+  - britannia good day
+  - kaju biscuit
+  - good day cashew
+  - गुड डे
+  - गुड डे बिस्कुट
+  - ब्रिटानिया गुड डे
+  - britanniagooddaycashew600g
+  - goodday
+  - gooddaybiscuit
+  - britanniagoodday
+  - kajubiscuit
+  - gooddaycashew
+  - गुडडे
+  - गुडडेबिस्कुट
+  - ब्रिटानियागुडडे
+- id: sku_marie_gold_500g
+  name: Britannia Marie Gold Biscuits 500g
+  brand: Britannia
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - britannia marie gold biscuits 500g
+  - marie gold
+  - marie biscuit
+  - mari gold
+  - britannia marie
+  - tea biscuit
+  - मैरी गोल्ड
+  - मैरी बिस्कुट
+  - मारी गोल्ड
+  - britanniamariegoldbiscuits500g
+  - mariegold
+  - mariebiscuit
+  - marigold
+  - britanniamarie
+  - teabiscuit
+  - मैरीगोल्ड
+  - मैरीबिस्कुट
+  - मारीगोल्ड
+- id: sku_parle_monaco_400g
+  name: Parle Monaco Salted Biscuits 400g
+  brand: Parle
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - parle monaco salted biscuits 400g
+  - monaco
+  - parle monaco
+  - salted biscuit
+  - namkeen biscuit monaco
+  - मोनाको
+  - पारले मोनाको
+  - नमकीन बिस्कुट
+  - parlemonacosaltedbiscuits400g
+  - parlemonaco
+  - saltedbiscuit
+  - namkeenbiscuitmonaco
+  - पारलेमोनाको
+  - नमकीनबिस्कुट
+- id: sku_parle_krackjack_400g
+  name: Parle Krackjack Sweet & Salty 400g
+  brand: Parle
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - parle krackjack sweet & salty 400g
+  - krackjack
+  - crackjack
+  - parle krackjack
+  - sweet and salty biscuit
+  - क्रैकजैक
+  - पारले क्रैकजैक
+  - parlekrackjacksweet&salty400g
+  - parlekrackjack
+  - sweetandsaltybiscuit
+  - पारलेक्रैकजैक
+- id: sku_bourbon_biscuit_300g
+  name: Britannia Bourbon Chocolate Cream 300g
+  brand: Britannia
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - britannia bourbon chocolate cream 300g
+  - bourbon
+  - chocolate biscuit
+  - britannia bourbon
+  - bourbon cream
+  - बोरबॉन
+  - बोर्बन
+  - चॉकलेट बिस्कुट
+  - britanniabourbonchocolatecream300g
+  - chocolatebiscuit
+  - britanniabourbon
+  - bourboncream
+  - चॉकलेटबिस्कुट
+- id: sku_haldiram_aloo_bhujia_400g
+  name: Haldiram Aloo Bhujia Namkeen 400g
+  brand: Haldiram
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - haldiram aloo bhujia namkeen 400g
+  - aloo bhujia
+  - haldiram aloo bhujia
+  - bhujia
+  - namkeen haldiram
+  - alu bhujiya
+  - आलू भुजिया
+  - हल्दीराम आलू भुजिया
+  - भुजिया
+  - नमकीन
+  - haldiramaloobhujianamkeen400g
+  - aloobhujia
+  - haldiramaloobhujia
+  - namkeenhaldiram
+  - alubhujiya
+  - आलूभुजिया
+  - हल्दीरामआलूभुजिया
+- id: sku_haldiram_ratlami_sev_400g
+  name: Haldiram Ratlami Sev 400g
+  brand: Haldiram
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - haldiram ratlami sev 400g
+  - ratlami sev
+  - sev
+  - haldiram sev
+  - ratlami sev namkeen
+  - laung sev
+  - रतलामी सेव
+  - हल्दीराम सेव
+  - सेव
+  - haldiramratlamisev400g
+  - ratlamisev
+  - haldiramsev
+  - ratlamisevnamkeen
+  - laungsev
+  - रतलामीसेव
+  - हल्दीरामसेव
+- id: sku_lays_magic_masala_52g
+  name: Lay's India's Magic Masala 52g
+  brand: Lay's
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - lay's india's magic masala 52g
+  - lays
+  - lays chips
+  - magic masala
+  - lays blue
+  - chips wafers
+  - लेज
+  - लेज चिप्स
+  - चिप्स
+  - lay'sindia'smagicmasala52g
+  - layschips
+  - magicmasala
+  - laysblue
+  - chipswafers
+  - लेजचिप्स
+- id: sku_kurkure_masala_munch_90g
+  name: Kurkure Masala Munch 90g
+  brand: Kurkure
+  category: Biscuits & snacks
+  standard_unit: packet
+  aliases:
+  - kurkure masala munch 90g
+  - kurkure
+  - masala munch
+  - kurkure namkeen
+  - kurkure packet
+  - कुरकुरे
+  - मसाला मंच
+  - kurkuremasalamunch90g
+  - masalamunch
+  - kurkurenamkeen
+  - kurkurepacket
+  - मसालामंच
+- id: sku_maggi_noodles_carton
+  name: Maggi 2-Minute Masala Noodles (96 packs carton)
+  brand: Nestle
+  category: Instant foods
+  standard_unit: carton
+  aliases:
+  - maggi 2-minute masala noodles (96 packs carton)
+  - maggi
+  - maggi noodles
+  - nestle maggi
+  - maggi carton
+  - 2 minute noodles
+  - noodle
+  - मैगी
+  - मैगी नूडल्स
+  - मैगी कार्टन
+  - दो मिनट मैगी
+  - maggi 2 minute masala noodles (96 packs carton)
+  - maggi2-minutemasalanoodles(96packscarton)
+  - magginoodles
+  - nestlemaggi
+  - maggicarton
+  - 2minutenoodles
+  - मैगीनूडल्स
+  - मैगीकार्टन
+  - दोमिनटमैगी
+- id: sku_yippee_noodles_carton
+  name: Sunfeast YiPPee Magic Masala Noodles (96 packs)
+  brand: Sunfeast
+  category: Instant foods
+  standard_unit: carton
+  aliases:
+  - sunfeast yippee magic masala noodles (96 packs)
+  - yippee
+  - yippee noodles
+  - sunfeast yippee
+  - yippie
+  - यिप्पी
+  - यिप्पी नूडल्स
+  - sunfeastyippeemagicmasalanoodles(96packs)
+  - yippeenoodles
+  - sunfeastyippee
+  - यिप्पीनूडल्स
+- id: sku_mtr_upma_mix_200g
+  name: MTR Ready Breakfast Upma Mix 200g
+  brand: MTR
+  category: Instant foods
+  standard_unit: packet
+  aliases:
+  - mtr ready breakfast upma mix 200g
+  - mtr upma
+  - upma mix
+  - instant upma
+  - mtr breakfast
+  - एमटीआर उपमा
+  - उपमा मिक्स
+  - mtrreadybreakfastupmamix200g
+  - mtrupma
+  - upmamix
+  - instantupma
+  - mtrbreakfast
+  - एमटीआरउपमा
+  - उपमामिक्स
+- id: sku_gits_gulab_jamun_200g
+  name: Gits Gulab Jamun Instant Dessert Mix 200g
+  brand: Gits
+  category: Instant foods
+  standard_unit: packet
+  aliases:
+  - gits gulab jamun instant dessert mix 200g
+  - gits gulab jamun
+  - gulab jamun mix
+  - gits mix
+  - instant gulab jamun
+  - गिट्स गुलाब जामुन
+  - गुलाब जामुन मिक्स
+  - gitsgulabjamuninstantdessertmix200g
+  - gitsgulabjamun
+  - gulabjamunmix
+  - gitsmix
+  - instantgulabjamun
+  - गिट्सगुलाबजामुन
+  - गुलाबजामुनमिक्स
+- id: sku_amul_taaza_milk_1l
+  name: Amul Taaza Toned Fresh Milk 1L Tetra
+  brand: Amul
+  category: Dairy & breakfast
+  standard_unit: packet
+  aliases:
+  - amul taaza toned fresh milk 1l tetra
+  - amul milk
+  - amul taaza
+  - doodh
+  - toned milk
+  - amul doodh tetra
+  - milk
+  - अमूल दूध
+  - अमूल ताजा
+  - दूध
+  - ताजा दूध
+  - amultaazatonedfreshmilk1ltetra
+  - amulmilk
+  - amultaaza
+  - tonedmilk
+  - amuldoodhtetra
+  - अमूलदूध
+  - अमूलताजा
+  - ताजादूध
+- id: sku_amul_butter_500g
+  name: Amul Butter Pasteurized 500g Block
+  brand: Amul
+  category: Dairy & breakfast
+  standard_unit: packet
+  aliases:
+  - amul butter pasteurized 500g block
+  - amul butter
+  - butter
+  - makhan
+  - amul makhan
+  - table butter
+  - अमूल बटर
+  - मक्खन
+  - अमूल मक्खन
+  - बटर
+  - amulbutterpasteurized500gblock
+  - amulbutter
+  - amulmakhan
+  - tablebutter
+  - अमूलबटर
+  - अमूलमक्खन
+- id: sku_amul_cheese_slices_200g
+  name: Amul Processed Cheese Slices 200g (10 Slices)
+  brand: Amul
+  category: Dairy & breakfast
+  standard_unit: packet
+  aliases:
+  - amul processed cheese slices 200g (10 slices)
+  - amul cheese
+  - cheese slices
+  - cheese amul
+  - cheez
+  - अमूल चीज़
+  - चीज़ स्लाइस
+  - चीज़
+  - amulprocessedcheeseslices200g(10slices)
+  - amulcheese
+  - cheeseslices
+  - cheeseamul
+  - अमूलचीज़
+  - चीज़स्लाइस
+- id: sku_kelloggs_corn_flakes_475g
+  name: Kellogg's Real Almond & Honey Corn Flakes 475g
+  brand: Kellogg's
+  category: Dairy & breakfast
+  standard_unit: packet
+  aliases:
+  - kellogg's real almond & honey corn flakes 475g
+  - corn flakes
+  - kelloggs cornflakes
+  - nashta corn flakes
+  - kelloggs
+  - कॉर्नफ्लेक्स
+  - केलॉग्स कॉर्नफ्लेक्स
+  - kellogg'srealalmond&honeycornflakes475g
+  - cornflakes
+  - kelloggscornflakes
+  - nashtacornflakes
+  - केलॉग्सकॉर्नफ्लेक्स
+- id: sku_quaker_oats_1kg
+  name: Quaker Rolled Oats 1kg Pouch
+  brand: Quaker
+  category: Dairy & breakfast
+  standard_unit: packet
+  aliases:
+  - quaker rolled oats 1kg pouch
+  - quaker oats
+  - oats
+  - rolled oats
+  - daliya oats
+  - ओट्स
+  - क्वेकर ओट्स
+  - quakerrolledoats1kgpouch
+  - quakeroats
+  - rolledoats
+  - daliyaoats
+  - क्वेकरओट्स
+- id: sku_kissan_ketchup_1kg
+  name: Kissan Fresh Tomato Ketchup 1kg Pouch
+  brand: Kissan
+  category: Sauces & pickles
+  standard_unit: packet
+  aliases:
+  - kissan fresh tomato ketchup 1kg pouch
+  - kissan ketchup
+  - tomato sauce
+  - ketchup
+  - kissan sauce
+  - tomato ketchup
+  - किसान केचप
+  - टमाटर सॉस
+  - सॉस
+  - केचप
+  - kissanfreshtomatoketchup1kgpouch
+  - kissanketchup
+  - tomatosauce
+  - kissansauce
+  - tomatoketchup
+  - किसानकेचप
+  - टमाटरसॉस
+- id: sku_chings_schezwan_250g
+  name: Ching's Secret Schezwan Chutney 250g
+  brand: Ching's
+  category: Sauces & pickles
+  standard_unit: bottle
+  aliases:
+  - ching's secret schezwan chutney 250g
+  - chings schezwan
+  - schezwan chutney
+  - schezwan sauce
+  - chings chutney
+  - चिंग्स शेजवान
+  - शेजवान चटनी
+  - शेजवान सॉस
+  - ching'ssecretschezwanchutney250g
+  - chingsschezwan
+  - schezwanchutney
+  - schezwansauce
+  - chingschutney
+  - चिंग्सशेजवान
+  - शेजवानचटनी
+  - शेजवानसॉस
+- id: sku_mothers_mango_pickle_500g
+  name: Mother's Recipe Mango Pickle Achar 500g
+  brand: Mother's Recipe
+  category: Sauces & pickles
+  standard_unit: dabba
+  aliases:
+  - mother's recipe mango pickle achar 500g
+  - mango pickle
+  - aam ka achar
+  - mothers recipe pickle
+  - achar 500g
+  - आम का अचार
+  - मदर्स रेसिपी अचार
+  - अचार
+  - mother'srecipemangopickleachar500g
+  - mangopickle
+  - aamkaachar
+  - mothersrecipepickle
+  - achar500g
+  - आमकाअचार
+  - मदर्सरेसिपीअचार
+- id: sku_lijjat_urad_papad_200g
+  name: Shri Mahila Griha Udyog Lijjat Urad Papad 200g
+  brand: Lijjat
+  category: Sauces & pickles
+  standard_unit: packet
+  aliases:
+  - shri mahila griha udyog lijjat urad papad 200g
+  - lijjat papad
+  - papad
+  - urad papad
+  - lijjat
+  - moong papad
+  - लिज्जत पापड़
+  - पापड़
+  - उड़द पापड़
+  - shrimahilagrihaudyoglijjaturadpapad200g
+  - lijjatpapad
+  - uradpapad
+  - moongpapad
+  - लिज्जतपापड़
+  - उड़दपापड़
+- id: sku_happilo_almonds_500g
+  name: Happilo California Premium Almonds Badam 500g
+  brand: Happilo
+  category: Dry fruits & nuts
+  standard_unit: packet
+  aliases:
+  - happilo california premium almonds badam 500g
+  - badam
+  - happilo almond
+  - california badam
+  - almonds 500g
+  - almond
+  - बादाम
+  - हैपिलो बादाम
+  - कैलिफोर्निया बादाम
+  - happilocaliforniapremiumalmondsbadam500g
+  - happiloalmond
+  - californiabadam
+  - almonds500g
+  - हैपिलोबादाम
+  - कैलिफोर्नियाबादाम
+- id: sku_raisins_kishmish_500g
+  name: Green Long Raisins Kishmish 500g
+  brand: Mandi Direct
+  category: Dry fruits & nuts
+  standard_unit: packet
+  aliases:
+  - green long raisins kishmish 500g
+  - kishmish
+  - kismis
+  - raisins
+  - munakka
+  - draksh
+  - किशमिश
+  - किशमिस
+  - मुनक्का
+  - greenlongraisinskishmish500g
+- id: sku_cashew_kaju_w320_250g
+  name: Goa Premium Cashew W320 Kaju 250g
+  brand: Mandi Direct
+  category: Dry fruits & nuts
+  standard_unit: packet
+  aliases:
+  - goa premium cashew w320 kaju 250g
+  - kaju
+  - cashew
+  - w320 kaju
+  - kaju tukda
+  - cashews
+  - काजू
+  - काजू टुकड़ा
+  - goapremiumcasheww320kaju250g
+  - w320kaju
+  - kajutukda
+  - काजूटुकड़ा
+- id: sku_walnuts_akhrot_250g
+  name: Kashmiri Shelled Walnuts Akhrot Giri 250g
+  brand: Mandi Direct
+  category: Dry fruits & nuts
+  standard_unit: packet
+  aliases:
+  - kashmiri shelled walnuts akhrot giri 250g
+  - akhrot
+  - walnut
+  - akhrot giri
+  - walnuts
+  - अखरोट
+  - अखरोट गिरी
+  - kashmirishelledwalnutsakhrotgiri250g
+  - akhrotgiri
+  - अखरोटगिरी
+- id: sku_lux_soap_100g
+  name: Lux Velvet Touch Beauty Soap 100g
+  brand: HUL
+  category: Personal care
+  standard_unit: packet
+  aliases:
+  - lux velvet touch beauty soap 100g
+  - lux soap
+  - lux sabun
+  - sabun
+  - lux
+  - beauty soap
+  - लक्स साबुन
+  - लक्स
+  - साबुन
+  - luxvelvettouchbeautysoap100g
+  - luxsoap
+  - luxsabun
+  - beautysoap
+  - लक्ससाबुन
+- id: sku_dettol_soap_125g
+  name: Dettol Original Germ Protection Soap 125g
+  brand: Reckitt
+  category: Personal care
+  standard_unit: packet
+  aliases:
+  - dettol original germ protection soap 125g
+  - dettol soap
+  - dettol sabun
+  - germ protection soap
+  - डेटॉल साबुन
+  - डेटॉल
+  - dettoloriginalgermprotectionsoap125g
+  - dettolsoap
+  - dettolsabun
+  - germprotectionsoap
+  - डेटॉलसाबुन
+- id: sku_dove_shampoo_340ml
+  name: Dove Intense Repair Hair Shampoo 340ml
+  brand: HUL
+  category: Personal care
+  standard_unit: bottle
+  aliases:
+  - dove intense repair hair shampoo 340ml
+  - dove shampoo
+  - dove
+  - shampoo dove
+  - hair shampoo
+  - डव शैम्पू
+  - डव
+  - doveintenserepairhairshampoo340ml
+  - doveshampoo
+  - shampoodove
+  - hairshampoo
+  - डवशैम्पू
+- id: sku_colgate_maxfresh_150g
+  name: Colgate MaxFresh Spicy Fresh Toothpaste 150g
+  brand: Colgate
+  category: Personal care
+  standard_unit: packet
+  aliases:
+  - colgate maxfresh spicy fresh toothpaste 150g
+  - colgate
+  - colgate maxfresh
+  - toothpaste
+  - manjan
+  - colgate paste
+  - कोलगेट
+  - कोलगेट मैक्सफ्रेश
+  - टूथपेस्ट
+  - मंजन
+  - colgatemaxfreshspicyfreshtoothpaste150g
+  - colgatemaxfresh
+  - colgatepaste
+  - कोलगेटमैक्सफ्रेश
+- id: sku_dettol_handwash_250ml
+  name: Dettol Liquid Handwash Pump 250ml
+  brand: Reckitt
+  category: Personal care
+  standard_unit: bottle
+  aliases:
+  - dettol liquid handwash pump 250ml
+  - dettol handwash
+  - handwash liquid
+  - dettol pump
+  - hand wash
+  - डेटॉल हैंडवाश
+  - हैंडवाश
+  - dettolliquidhandwashpump250ml
+  - dettolhandwash
+  - handwashliquid
+  - dettolpump
+  - handwash
+  - डेटॉलहैंडवाश
+- id: sku_whisper_ultra_20pads
+  name: Whisper Ultra Clean Sanitary Napkins (20 Pads XL)
+  brand: P&G
+  category: Personal care
+  standard_unit: packet
+  aliases:
+  - whisper ultra clean sanitary napkins (20 pads xl)
+  - whisper
+  - whisper ultra
+  - sanitary pad
+  - whisper pads
+  - napkin
+  - व्हिस्पर
+  - सैनिटरी पैड
+  - whisperultracleansanitarynapkins(20padsxl)
+  - whisperultra
+  - sanitarypad
+  - whisperpads
+  - सैनिटरीपैड
+- id: sku_surf_excel_matic_2kg
+  name: Surf Excel Matic Front Load Detergent Powder 2kg
+  brand: HUL
+  category: Laundry
+  standard_unit: packet
+  aliases:
+  - surf excel matic front load detergent powder 2kg
+  - surf excel
+  - surf
+  - surf excel matic
+  - detergent powder
+  - washing powder surf
+  - सर्फ एक्सेल
+  - सर्फ
+  - सर्फ एक्सेल पाउडर
+  - surfexcelmaticfrontloaddetergentpowder2kg
+  - surfexcel
+  - surfexcelmatic
+  - detergentpowder
+  - washingpowdersurf
+  - सर्फएक्सेल
+  - सर्फएक्सेलपाउडर
+- id: sku_ariel_matic_liquid_1l
+  name: Ariel Matic Liquid Detergent 1L Bottle
+  brand: P&G
+  category: Laundry
+  standard_unit: bottle
+  aliases:
+  - ariel matic liquid detergent 1l bottle
+  - ariel liquid
+  - ariel matic
+  - washing liquid
+  - ariel detergent
+  - एरियल लिक्विड
+  - एरियल
+  - arielmaticliquiddetergent1lbottle
+  - arielliquid
+  - arielmatic
+  - washingliquid
+  - arieldetergent
+  - एरियललिक्विड
+- id: sku_wheel_green_lemon_1kg
+  name: Active Wheel 2 in 1 Green Lemon Detergent 1kg
+  brand: HUL
+  category: Laundry
+  standard_unit: packet
+  aliases:
+  - active wheel 2 in 1 green lemon detergent 1kg
+  - wheel powder
+  - wheel detergent
+  - green wheel
+  - wheel sabun powder
+  - व्हील पाउडर
+  - व्हील
+  - activewheel2in1greenlemondetergent1kg
+  - wheelpowder
+  - wheeldetergent
+  - greenwheel
+  - wheelsabunpowder
+  - व्हीलपाउडर
+- id: sku_rin_bar_250g
+  name: Rin Advanced Detergent Laundry Bar 250g
+  brand: HUL
+  category: Laundry
+  standard_unit: packet
+  aliases:
+  - rin advanced detergent laundry bar 250g
+  - rin bar
+  - rin sabun
+  - kapde ka sabun
+  - rin detergent bar
+  - रिन साबुन
+  - रिन बार
+  - rinadvanceddetergentlaundrybar250g
+  - rinbar
+  - rinsabun
+  - kapdekasabun
+  - rindetergentbar
+  - रिनसाबुन
+  - रिनबार
+- id: sku_vim_dishwash_bar_200g
+  name: Vim Lemon Dishwash Bar 200g
+  brand: HUL
+  category: Household cleaning
+  standard_unit: packet
+  aliases:
+  - vim lemon dishwash bar 200g
+  - vim bar
+  - vim sabun
+  - bartan sabun
+  - dishwash bar
+  - vim
+  - विम बार
+  - विम साबुन
+  - बर्तन का साबुन
+  - विम
+  - vimlemondishwashbar200g
+  - vimbar
+  - vimsabun
+  - bartansabun
+  - dishwashbar
+  - विमबार
+  - विमसाबुन
+  - बर्तनकासाबुन
+- id: sku_harpic_power_plus_1l
+  name: Harpic Power Plus Toilet Cleaner 1L
+  brand: Reckitt
+  category: Household cleaning
+  standard_unit: bottle
+  aliases:
+  - harpic power plus toilet cleaner 1l
+  - harpic
+  - toilet cleaner
+  - harpic 1l
+  - blue harpic
+  - हार्पिक
+  - टॉयलेट क्लीनर
+  - harpicpowerplustoiletcleaner1l
+  - toiletcleaner
+  - harpic1l
+  - blueharpic
+  - टॉयलेटक्लीनर
+- id: sku_lizol_floor_cleaner_2l
+  name: Lizol Citrus Disinfectant Floor Cleaner 2L
+  brand: Reckitt
+  category: Household cleaning
+  standard_unit: bottle
+  aliases:
+  - lizol citrus disinfectant floor cleaner 2l
+  - lizol
+  - floor cleaner
+  - pochha liquid
+  - lizol 2l
+  - लाइजोल
+  - फ्लोर क्लीनर
+  - lizolcitrusdisinfectantfloorcleaner2l
+  - floorcleaner
+  - pochhaliquid
+  - lizol2l
+  - फ्लोरक्लीनर
+- id: sku_colin_glass_cleaner_500ml
+  name: Colin Regular Glass & Surface Cleaner 500ml
+  brand: Reckitt
+  category: Household cleaning
+  standard_unit: bottle
+  aliases:
+  - colin regular glass & surface cleaner 500ml
+  - colin
+  - glass cleaner
+  - shisha cleaner
+  - colin spray
+  - कॉलिन
+  - ग्लास क्लीनर
+  - colinregularglass&surfacecleaner500ml
+  - glasscleaner
+  - shishacleaner
+  - colinspray
+  - ग्लासक्लीनर
+- id: sku_kissan_mixed_jam_500g
+  name: Kissan Mixed Fruit Jam Jar 500g
+  brand: Kissan
+  category: Packaged foods
+  standard_unit: dabba
+  aliases:
+  - kissan mixed fruit jam jar 500g
+  - kissan jam
+  - fruit jam
+  - mixed jam
+  - jam
+  - murabba
+  - किसान जैम
+  - फ्रूट जैम
+  - जैम
+  - kissanmixedfruitjamjar500g
+  - kissanjam
+  - fruitjam
+  - mixedjam
+  - किसानजैम
+  - फ्रूटजैम
+- id: sku_mtr_poha_500g
+  name: MTR Daily Breakfast Flattened Rice Poha 500g
+  brand: MTR
+  category: Packaged foods
+  standard_unit: packet
+  aliases:
+  - mtr daily breakfast flattened rice poha 500g
+  - poha
+  - mtr poha
+  - chivda
+  - aval
+  - flattened rice
+  - पोहा
+  - चिवड़ा
+  - एमटीआर पोहा
+  - mtrdailybreakfastflattenedricepoha500g
+  - mtrpoha
+  - flattenedrice
+  - एमटीआरपोहा
+- id: sku_india_gate_daliya_500g
+  name: India Gate Roasted Wheat Porridge Daliya 500g
+  brand: India Gate
+  category: Packaged foods
+  standard_unit: packet
+  aliases:
+  - india gate roasted wheat porridge daliya 500g
+  - daliya
+  - wheat daliya
+  - porridge
+  - gehu daliya
+  - दलिया
+  - गेहूं दलिया
+  - indiagateroastedwheatporridgedaliya500g
+  - wheatdaliya
+  - gehudaliya
+  - गेहूंदलिया
+- id: sku_fresh_onion_kg
+  name: Fresh Red Onion Mandi Grade 1kg
+  brand: Mandi Direct
+  category: Fresh produce
+  standard_unit: kg
+  aliases:
+  - fresh red onion mandi grade 1kg
+  - onion
+  - pyaaz
+  - pyaz
+  - pyaj
+  - kanda
+  - red onion
+  - nashik pyaaz
+  - प्याज
+  - प्याज़
+  - कांदा
+  - कंदा
+  - freshredonionmandigrade1kg
+  - redonion
+  - nashikpyaaz
+- id: sku_fresh_potato_kg
+  name: Fresh Jyoti Potato Agra Quality 1kg
+  brand: Mandi Direct
+  category: Fresh produce
+  standard_unit: kg
+  aliases:
+  - fresh jyoti potato agra quality 1kg
+  - potato
+  - aloo
+  - alu
+  - batata
+  - agra aloo
+  - jyoti aloo
+  - आलू
+  - बटाटा
+  - आलू ज्योति
+  - freshjyotipotatoagraquality1kg
+  - agraaloo
+  - jyotialoo
+  - आलूज्योति
+- id: sku_fresh_tomato_kg
+  name: Fresh Hybrid Tomato Mandi 1kg
+  brand: Mandi Direct
+  category: Fresh produce
+  standard_unit: kg
+  aliases:
+  - fresh hybrid tomato mandi 1kg
+  - tomato
+  - tamatar
+  - red tomato
+  - desi tamatar
+  - टमाटर
+  - लाल टमाटर
+  - freshhybridtomatomandi1kg
+  - redtomato
+  - desitamatar
+  - लालटमाटर
+- id: sku_fresh_garlic_lehsun_500g
+  name: Desi White Garlic Lehsun 500g
+  brand: Mandi Direct
+  category: Fresh produce
+  standard_unit: gram
+  aliases:
+  - desi white garlic lehsun 500g
+  - lehsun
+  - garlic
+  - lahsun
+  - safed lehsun
+  - lasun
+  - लहसुन
+  - देसी लहसुन
+  - desiwhitegarliclehsun500g
+  - safedlehsun
+  - देसीलहसुन
+- id: sku_fresh_ginger_adrak_250g
+  name: Fresh Spicy Ginger Adrak 250g
+  brand: Mandi Direct
+  category: Fresh produce
+  standard_unit: gram
+  aliases:
+  - fresh spicy ginger adrak 250g
+  - adrak
+  - ginger
+  - adrak fresh
+  - ada
+  - अदरक
+  - ताजा अदरक
+  - freshspicygingeradrak250g
+  - adrakfresh
+  - ताजाअदरक
+- id: sku_fresh_lemon_nimbu_500g
+  name: Juicy Yellow Kagzi Lemon Nimbu 500g
+  brand: Mandi Direct
+  category: Fresh produce
+  standard_unit: gram
+  aliases:
+  - juicy yellow kagzi lemon nimbu 500g
+  - nimbu
+  - lemon
+  - kagzi nimbu
+  - neebu
+  - yellow lemon
+  - नींबू
+  - कागजी नींबू
+  - juicyyellowkagzilemonnimbu500g
+  - kagzinimbu
+  - yellowlemon
+  - कागजीनींबू
+- id: sku_dabur_chyawanprash_500g
+  name: Dabur Chyawanprash Immunity 500g
+  brand: Dabur
+  category: Health & wellness
+  standard_unit: dabba
+  aliases:
+  - dabur chyawanprash immunity 500g
+  - chyawanprash
+  - dabur chyawanprash
+  - chawanprash
+  - dabur immunity
+  - च्यवनप्राश
+  - डाबर च्यवनप्राश
+  - daburchyawanprashimmunity500g
+  - daburchyawanprash
+  - daburimmunity
+  - डाबरच्यवनप्राश
+- id: sku_eno_fruit_salt_100g
+  name: ENO Regular Fruit Salt 100g Bottle
+  brand: GSK
+  category: Health & wellness
+  standard_unit: bottle
+  aliases:
+  - eno regular fruit salt 100g bottle
+  - eno
+  - eno fruit salt
+  - acidity eno
+  - gas dawa
+  - ईनो
+  - फ्रूट साल्ट
+  - enoregularfruitsalt100gbottle
+  - enofruitsalt
+  - acidityeno
+  - gasdawa
+  - फ्रूटसाल्ट
+- id: sku_vicks_vaporub_50g
+  name: Vicks Vaporub Cold Relief Balm 50g
+  brand: P&G
+  category: Health & wellness
+  standard_unit: dabba
+  aliases:
+  - vicks vaporub cold relief balm 50g
+  - vicks
+  - vicks vaporub
+  - sardi balm
+  - vicks balm
+  - विक्स
+  - विक्स वेपोरब
+  - vicksvaporubcoldreliefbalm50g
+  - vicksvaporub
+  - sardibalm
+  - vicksbalm
+  - विक्सवेपोरब
+- id: sku_dettol_antiseptic_125ml
+  name: Dettol Antiseptic Liquid 125ml
+  brand: Reckitt
+  category: Health & wellness
+  standard_unit: bottle
+  aliases:
+  - dettol antiseptic liquid 125ml
+  - dettol antiseptic
+  - antiseptic liquid
+  - dettol liquid
+  - dettol dava
+  - डेटॉल एंटीसेप्टिक
+  - डेटॉल लिक्विड
+  - dettolantisepticliquid125ml
+  - dettolantiseptic
+  - antisepticliquid
+  - dettolliquid
+  - dettoldava
+  - डेटॉलएंटीसेप्टिक
+  - डेटॉललिक्विड
+- id: sku_moov_spray_50g
+  name: Moov Pain Relief Fast Action Spray 50g
+  brand: Reckitt
+  category: Health & wellness
+  standard_unit: bottle
+  aliases:
+  - moov pain relief fast action spray 50g
+  - moov
+  - moov spray
+  - pain spray
+  - moov pain relief
+  - kamar dard spray
+  - मूव
+  - मूव स्प्रे
+  - दर्द स्प्रे
+  - moovpainrelieffastactionspray50g
+  - moovspray
+  - painspray
+  - moovpainrelief
+  - kamardardspray
+  - मूवस्प्रे
+  - दर्दस्प्रे
+- id: sku_zandu_balm_25ml
+  name: Zandu Balm Fast Headache & Cold Relief 25ml
+  brand: Emami
+  category: Health & wellness
+  standard_unit: dabba
+  aliases:
+  - zandu balm fast headache & cold relief 25ml
+  - zandu balm
+  - headache balm
+  - zandu
+  - sar dard balm
+  - झंडू बाम
+  - झंडू
+  - zandubalmfastheadache&coldrelief25ml
+  - zandubalm
+  - headachebalm
+  - sardardbalm
+  - झंडूबाम
