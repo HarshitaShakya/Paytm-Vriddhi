@@ -1,0 +1,102 @@
+id,category,name,brand,pack_size,standard_unit,pack_multiplier
+sku_aashirvaad_atta_5kg,Atta & flours,Aashirvaad Whole Wheat Atta 5kg,Aashirvaad,5 kg pack,packet,5.0
+sku_pillsbury_atta_5kg,Atta & flours,Pillsbury Chakki Fresh Atta 5kg,Pillsbury,5 kg pack,packet,5.0
+sku_fortune_besan_500g,Atta & flours,Fortune Besan 500g,Fortune,500 g pack,packet,0.5
+sku_sooji_fine_500g,Atta & flours,Sooji Fine Rava 500g,Local Mandi,500 g pack,packet,0.5
+sku_maida_fine_1kg,Atta & flours,Rajdhani Fine Maida 1kg,Rajdhani,1 kg pack,packet,1.0
+sku_rajdhani_sattu_500g,Atta & flours,Rajdhani Chana Sattu 500g,Rajdhani,500 g pack,packet,0.5
+sku_india_gate_basmati_5kg,Rice,India Gate Basmati Rice 5kg,India Gate,5 kg pack,packet,5.0
+sku_daawat_rozana_5kg,Rice,Daawat Rozana Gold Basmati Rice 5kg,Daawat,5 kg pack,packet,5.0
+sku_kohinoor_sella_1kg,Rice,Kohinoor Sella Basmati Rice 1kg,Kohinoor,1 kg pack,packet,1.0
+sku_lal_qilla_basmati_1kg,Rice,Lal Qilla Basmati Rice 1kg,Lal Qilla,1 kg pack,packet,1.0
+sku_kolam_rice_10kg,Rice,Wada Kolam Steam Rice (10kg Bori),Mandi Direct,10 kg bori,bori,10.0
+sku_sona_masoori_25kg,Rice,Sona Masoori Raw Rice (25kg Bori),Mandi Direct,25 kg bori,bori,25.0
+sku_tata_arhar_dal_50kg,Dals & pulses,Tata Sampann Arhar Toor Dal (50kg Bori),Tata Sampann,50 kg bori,bori,50.0
+sku_fortune_moong_dal_1kg,Dals & pulses,Fortune Moong Dal Dhuli 1kg,Fortune,1 kg pack,packet,1.0
+sku_urad_dal_black_1kg,Dals & pulses,Urad Dal Black Chilka 1kg,Mandi Direct,1 kg pack,packet,1.0
+sku_chana_dal_1kg,Dals & pulses,Chana Dal Premium 1kg,Mandi Direct,1 kg pack,packet,1.0
+sku_masoor_dal_1kg,Dals & pulses,Masoor Dal Malka Red 1kg,Mandi Direct,1 kg pack,packet,1.0
+sku_chitra_rajma_1kg,Dals & pulses,Chitra Rajma Premium 1kg,Mandi Direct,1 kg pack,packet,1.0
+sku_kabuli_chana_1kg,Dals & pulses,Kabuli Chana Dollar Quality 1kg,Mandi Direct,1 kg pack,packet,1.0
+sku_bail_kolhu_1l,Edible oils & ghee,Bail Kolhu Mustard Oil (12x1L Carton),Bail Kolhu,12 L carton,peti,12.0
+sku_fortune_sunflower_1l,Edible oils & ghee,Fortune Sunlite Sunflower Oil (12x1L Carton),Fortune,12 L carton,peti,12.0
+sku_saffola_gold_1l,Edible oils & ghee,Saffola Gold Blended Edible Oil 1L,Saffola,1 L bottle,packet,1.0
+sku_amul_pure_ghee_1l,Edible oils & ghee,Amul Pure Ghee 1L Tin,Amul,1 L tin,packet,1.0
+sku_dhara_groundnut_1l,Edible oils & ghee,Dhara Filtered Groundnut Oil 1L,Dhara,1 L pouch,packet,1.0
+sku_dalda_vanaspati_1l,Edible oils & ghee,Dalda Vanaspati Ghee 1L,Dalda,1 L pack,packet,1.0
+sku_mdh_deggi_mirch_100g,Spices & masalas,MDH Deggi Mirch 100g,MDH,100 g pack,packet,0.1
+sku_everest_garam_masala_100g,Spices & masalas,Everest Garam Masala 100g,Everest,100 g pack,packet,0.1
+sku_catch_coriander_100g,Spices & masalas,Catch Coriander Powder 100g,Catch,100 g pack,packet,0.1
+sku_tata_turmeric_100g,Spices & masalas,Tata Sampann Turmeric Haldi 100g,Tata Sampann,100 g pack,packet,0.1
+sku_everest_chaat_100g,Spices & masalas,Everest Chaat Masala 100g,Everest,100 g pack,packet,0.1
+sku_catch_jeera_200g,Spices & masalas,Catch Whole Cumin Seeds Jeera 200g,Catch,200 g pack,packet,0.2
+sku_catch_rai_200g,Spices & masalas,Catch Mustard Seeds Rai 200g,Catch,200 g pack,packet,0.2
+sku_everest_sambhar_100g,Spices & masalas,Everest Sambhar Masala 100g,Everest,100 g pack,packet,0.1
+sku_everest_chhole_100g,Spices & masalas,Everest Chhole Masala 100g,Everest,100 g pack,packet,0.1
+sku_catch_hing_50g,Spices & masalas,Catch Compounded Asafoetida Hing 50g,Catch,50 g dabba,dabba,0.05
+sku_tata_salt_50kg,"Salt, sugar & sweeteners",Tata Salt Iodized (50x1kg Bori),Tata,50 kg bori,bori,50.0
+sku_madhur_sugar_50kg,"Salt, sugar & sweeteners",Madhur Sugar (50kg Katta),Madhur,50 kg katta,katta,50.0
+sku_tata_sendha_namak_1kg,"Salt, sugar & sweeteners",Tata Rock Salt Sendha Namak 1kg,Tata,1 kg pack,packet,1.0
+sku_kolhapuri_jaggery_1kg,"Salt, sugar & sweeteners",Pure Kolhapuri Jaggery Gur 1kg,Mandi Direct,1 kg block,packet,1.0
+sku_tata_tea_gold_500g,"Tea, coffee & drinks",Tata Tea Gold 500g,Tata,500 g pack,packet,0.5
+sku_red_label_tea_500g,"Tea, coffee & drinks",Brooke Bond Red Label Tea 500g,Brooke Bond,500 g pack,packet,0.5
+sku_taj_mahal_tea_500g,"Tea, coffee & drinks",Brooke Bond Taj Mahal Tea 500g,Brooke Bond,500 g pack,packet,0.5
+sku_nescafe_classic_100g,"Tea, coffee & drinks",Nescafe Classic Coffee Jar 100g,Nescafe,100 g jar,dabba,0.1
+sku_bournvita_500g,"Tea, coffee & drinks",Cadbury Bournvita Chocolate 500g,Cadbury,500 g jar,dabba,0.5
+sku_rooh_afza_750ml,"Tea, coffee & drinks",Hamdard Rooh Afza Sharbat 750ml,Hamdard,750 ml bottle,bottle,0.75
+sku_parle_g_800g,Biscuits & snacks,Parle-G Glucose Biscuits (24x800g Carton),Parle,24 pack carton,carton,24.0
+sku_good_day_cashew_600g,Biscuits & snacks,Britannia Good Day Cashew 600g,Britannia,600 g pack,packet,0.6
+sku_marie_gold_500g,Biscuits & snacks,Britannia Marie Gold Biscuits 500g,Britannia,500 g pack,packet,0.5
+sku_parle_monaco_400g,Biscuits & snacks,Parle Monaco Salted Biscuits 400g,Parle,400 g pack,packet,0.4
+sku_parle_krackjack_400g,Biscuits & snacks,Parle Krackjack Sweet & Salty 400g,Parle,400 g pack,packet,0.4
+sku_bourbon_biscuit_300g,Biscuits & snacks,Britannia Bourbon Chocolate Cream 300g,Britannia,300 g pack,packet,0.3
+sku_haldiram_aloo_bhujia_400g,Biscuits & snacks,Haldiram Aloo Bhujia Namkeen 400g,Haldiram,400 g pack,packet,0.4
+sku_haldiram_ratlami_sev_400g,Biscuits & snacks,Haldiram Ratlami Sev 400g,Haldiram,400 g pack,packet,0.4
+sku_lays_magic_masala_52g,Biscuits & snacks,Lay's India's Magic Masala 52g,Lay's,52 g pack,packet,0.052
+sku_kurkure_masala_munch_90g,Biscuits & snacks,Kurkure Masala Munch 90g,Kurkure,90 g pack,packet,0.09
+sku_maggi_noodles_carton,Instant foods,Maggi 2-Minute Masala Noodles (96 packs carton),Nestle,96 pack carton,carton,96.0
+sku_yippee_noodles_carton,Instant foods,Sunfeast YiPPee Magic Masala Noodles (96 packs),Sunfeast,96 pack carton,carton,96.0
+sku_mtr_upma_mix_200g,Instant foods,MTR Ready Breakfast Upma Mix 200g,MTR,200 g pack,packet,0.2
+sku_gits_gulab_jamun_200g,Instant foods,Gits Gulab Jamun Instant Dessert Mix 200g,Gits,200 g pack,packet,0.2
+sku_amul_taaza_milk_1l,Dairy & breakfast,Amul Taaza Toned Fresh Milk 1L Tetra,Amul,1 L tetra,packet,1.0
+sku_amul_butter_500g,Dairy & breakfast,Amul Butter Pasteurized 500g Block,Amul,500 g block,packet,0.5
+sku_amul_cheese_slices_200g,Dairy & breakfast,Amul Processed Cheese Slices 200g (10 Slices),Amul,200 g pack,packet,0.2
+sku_kelloggs_corn_flakes_475g,Dairy & breakfast,Kellogg's Real Almond & Honey Corn Flakes 475g,Kellogg's,475 g pack,packet,0.475
+sku_quaker_oats_1kg,Dairy & breakfast,Quaker Rolled Oats 1kg Pouch,Quaker,1 kg pack,packet,1.0
+sku_kissan_ketchup_1kg,Sauces & pickles,Kissan Fresh Tomato Ketchup 1kg Pouch,Kissan,1 kg pouch,packet,1.0
+sku_chings_schezwan_250g,Sauces & pickles,Ching's Secret Schezwan Chutney 250g,Ching's,250 g bottle,bottle,0.25
+sku_mothers_mango_pickle_500g,Sauces & pickles,Mother's Recipe Mango Pickle Achar 500g,Mother's Recipe,500 g jar,dabba,0.5
+sku_lijjat_urad_papad_200g,Sauces & pickles,Shri Mahila Griha Udyog Lijjat Urad Papad 200g,Lijjat,200 g pack,packet,0.2
+sku_happilo_almonds_500g,Dry fruits & nuts,Happilo California Premium Almonds Badam 500g,Happilo,500 g pouch,packet,0.5
+sku_raisins_kishmish_500g,Dry fruits & nuts,Green Long Raisins Kishmish 500g,Mandi Direct,500 g pouch,packet,0.5
+sku_cashew_kaju_w320_250g,Dry fruits & nuts,Goa Premium Cashew W320 Kaju 250g,Mandi Direct,250 g pouch,packet,0.25
+sku_walnuts_akhrot_250g,Dry fruits & nuts,Kashmiri Shelled Walnuts Akhrot Giri 250g,Mandi Direct,250 g pouch,packet,0.25
+sku_lux_soap_100g,Personal care,Lux Velvet Touch Beauty Soap 100g,HUL,100 g bar,packet,0.1
+sku_dettol_soap_125g,Personal care,Dettol Original Germ Protection Soap 125g,Reckitt,125 g bar,packet,0.125
+sku_dove_shampoo_340ml,Personal care,Dove Intense Repair Hair Shampoo 340ml,HUL,340 ml bottle,bottle,0.34
+sku_colgate_maxfresh_150g,Personal care,Colgate MaxFresh Spicy Fresh Toothpaste 150g,Colgate,150 g tube,packet,0.15
+sku_dettol_handwash_250ml,Personal care,Dettol Liquid Handwash Pump 250ml,Reckitt,250 ml pump,bottle,0.25
+sku_whisper_ultra_20pads,Personal care,Whisper Ultra Clean Sanitary Napkins (20 Pads XL),P&G,20 pads pack,packet,1.0
+sku_surf_excel_matic_2kg,Laundry,Surf Excel Matic Front Load Detergent Powder 2kg,HUL,2 kg pack,packet,2.0
+sku_ariel_matic_liquid_1l,Laundry,Ariel Matic Liquid Detergent 1L Bottle,P&G,1 L bottle,bottle,1.0
+sku_wheel_green_lemon_1kg,Laundry,Active Wheel 2 in 1 Green Lemon Detergent 1kg,HUL,1 kg pack,packet,1.0
+sku_rin_bar_250g,Laundry,Rin Advanced Detergent Laundry Bar 250g,HUL,250 g bar,packet,0.25
+sku_vim_dishwash_bar_200g,Household cleaning,Vim Lemon Dishwash Bar 200g,HUL,200 g bar,packet,0.2
+sku_harpic_power_plus_1l,Household cleaning,Harpic Power Plus Toilet Cleaner 1L,Reckitt,1 L bottle,bottle,1.0
+sku_lizol_floor_cleaner_2l,Household cleaning,Lizol Citrus Disinfectant Floor Cleaner 2L,Reckitt,2 L bottle,bottle,2.0
+sku_colin_glass_cleaner_500ml,Household cleaning,Colin Regular Glass & Surface Cleaner 500ml,Reckitt,500 ml spray,bottle,0.5
+sku_kissan_mixed_jam_500g,Packaged foods,Kissan Mixed Fruit Jam Jar 500g,Kissan,500 g jar,dabba,0.5
+sku_mtr_poha_500g,Packaged foods,MTR Daily Breakfast Flattened Rice Poha 500g,MTR,500 g pack,packet,0.5
+sku_india_gate_daliya_500g,Packaged foods,India Gate Roasted Wheat Porridge Daliya 500g,India Gate,500 g pack,packet,0.5
+sku_fresh_onion_kg,Fresh produce,Fresh Red Onion Mandi Grade 1kg,Mandi Direct,1 kg,kg,1.0
+sku_fresh_potato_kg,Fresh produce,Fresh Jyoti Potato Agra Quality 1kg,Mandi Direct,1 kg,kg,1.0
+sku_fresh_tomato_kg,Fresh produce,Fresh Hybrid Tomato Mandi 1kg,Mandi Direct,1 kg,kg,1.0
+sku_fresh_garlic_lehsun_500g,Fresh produce,Desi White Garlic Lehsun 500g,Mandi Direct,500 g,gram,0.5
+sku_fresh_ginger_adrak_250g,Fresh produce,Fresh Spicy Ginger Adrak 250g,Mandi Direct,250 g,gram,0.25
+sku_fresh_lemon_nimbu_500g,Fresh produce,Juicy Yellow Kagzi Lemon Nimbu 500g,Mandi Direct,500 g,gram,0.5
+sku_dabur_chyawanprash_500g,Health & wellness,Dabur Chyawanprash Immunity 500g,Dabur,500 g jar,dabba,0.5
+sku_eno_fruit_salt_100g,Health & wellness,ENO Regular Fruit Salt 100g Bottle,GSK,100 g bottle,bottle,0.1
+sku_vicks_vaporub_50g,Health & wellness,Vicks Vaporub Cold Relief Balm 50g,P&G,50 g tub,dabba,0.05
+sku_dettol_antiseptic_125ml,Health & wellness,Dettol Antiseptic Liquid 125ml,Reckitt,125 ml bottle,bottle,0.125
+sku_moov_spray_50g,Health & wellness,Moov Pain Relief Fast Action Spray 50g,Reckitt,50 g spray,bottle,0.05
+sku_zandu_balm_25ml,Health & wellness,Zandu Balm Fast Headache & Cold Relief 25ml,Emami,25 ml bottle,dabba,0.025
