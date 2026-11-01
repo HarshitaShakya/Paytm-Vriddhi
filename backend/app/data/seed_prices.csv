@@ -1,0 +1,304 @@
+sku_id,supplier_id,unit,cash_price,credit_price,scheme_json,in_stock,valid_until
+sku_aashirvaad_atta_5kg,sup_shree_ganesh,packet,285.00,296.40,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_aashirvaad_atta_5kg,sup_raj_traders,packet,280.73,294.97,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_aashirvaad_atta_5kg,sup_malwa_fresh,packet,283.57,296.40,"{""buy_qty"": 5, ""flat_discount_rs"": 14}",1,2026-12-31 23:59:59
+sku_pillsbury_atta_5kg,sup_shree_ganesh,packet,275.00,286.00,,1,2026-12-31 23:59:59
+sku_pillsbury_atta_5kg,sup_raj_traders,packet,270.88,284.62,,1,2026-12-31 23:59:59
+sku_pillsbury_atta_5kg,sup_malwa_fresh,packet,273.62,286.00,,1,2026-12-31 23:59:59
+sku_fortune_besan_500g,sup_shree_ganesh,packet,72.00,74.88,,1,2026-12-31 23:59:59
+sku_fortune_besan_500g,sup_raj_traders,packet,70.92,74.52,,1,2026-12-31 23:59:59
+sku_fortune_besan_500g,sup_malwa_fresh,packet,71.64,74.88,,1,2026-12-31 23:59:59
+sku_sooji_fine_500g,sup_shree_ganesh,packet,44.00,45.76,,1,2026-12-31 23:59:59
+sku_sooji_fine_500g,sup_raj_traders,packet,43.34,45.54,,1,2026-12-31 23:59:59
+sku_sooji_fine_500g,sup_malwa_fresh,packet,43.78,45.76,,1,2026-12-31 23:59:59
+sku_maida_fine_1kg,sup_shree_ganesh,packet,48.00,49.92,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_maida_fine_1kg,sup_raj_traders,packet,47.28,49.68,,1,2026-12-31 23:59:59
+sku_maida_fine_1kg,sup_malwa_fresh,packet,47.76,49.92,,1,2026-12-31 23:59:59
+sku_rajdhani_sattu_500g,sup_shree_ganesh,packet,68.00,70.72,,1,2026-12-31 23:59:59
+sku_rajdhani_sattu_500g,sup_raj_traders,packet,66.98,70.38,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_rajdhani_sattu_500g,sup_malwa_fresh,packet,67.66,70.72,,1,2026-12-31 23:59:59
+sku_india_gate_basmati_5kg,sup_shree_ganesh,packet,575.00,598.00,,1,2026-12-31 23:59:59
+sku_india_gate_basmati_5kg,sup_raj_traders,packet,566.38,595.12,,1,2026-12-31 23:59:59
+sku_india_gate_basmati_5kg,sup_malwa_fresh,packet,572.12,598.00,,1,2026-12-31 23:59:59
+sku_daawat_rozana_5kg,sup_shree_ganesh,packet,365.00,379.60,,1,2026-12-31 23:59:59
+sku_daawat_rozana_5kg,sup_raj_traders,packet,359.52,377.77,,1,2026-12-31 23:59:59
+sku_daawat_rozana_5kg,sup_malwa_fresh,packet,363.18,379.60,"{""buy_qty"": 5, ""flat_discount_rs"": 18}",1,2026-12-31 23:59:59
+sku_kohinoor_sella_1kg,sup_shree_ganesh,packet,145.00,150.80,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_kohinoor_sella_1kg,sup_raj_traders,packet,142.82,150.07,,1,2026-12-31 23:59:59
+sku_kohinoor_sella_1kg,sup_malwa_fresh,packet,144.28,150.80,,1,2026-12-31 23:59:59
+sku_lal_qilla_basmati_1kg,sup_shree_ganesh,packet,175.00,182.00,,1,2026-12-31 23:59:59
+sku_lal_qilla_basmati_1kg,sup_raj_traders,packet,172.38,181.12,,1,2026-12-31 23:59:59
+sku_lal_qilla_basmati_1kg,sup_malwa_fresh,packet,174.12,182.00,,1,2026-12-31 23:59:59
+sku_kolam_rice_10kg,sup_shree_ganesh,bori,680.00,707.20,,1,2026-12-31 23:59:59
+sku_kolam_rice_10kg,sup_raj_traders,bori,669.80,703.80,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_kolam_rice_10kg,sup_malwa_fresh,bori,676.60,707.20,,1,2026-12-31 23:59:59
+sku_sona_masoori_25kg,sup_shree_ganesh,bori,1450.00,1508.00,,1,2026-12-31 23:59:59
+sku_sona_masoori_25kg,sup_raj_traders,bori,1428.25,1500.75,,1,2026-12-31 23:59:59
+sku_sona_masoori_25kg,sup_malwa_fresh,bori,1442.75,1508.00,,1,2026-12-31 23:59:59
+sku_tata_arhar_dal_50kg,sup_shree_ganesh,bori,6650.00,6950.00,,0,2026-12-31 23:59:59
+sku_tata_arhar_dal_50kg,sup_raj_traders,bori,6720.00,6920.00,,1,2026-12-31 23:59:59
+sku_tata_arhar_dal_50kg,sup_malwa_fresh,bori,6800.00,7004.00,"{""buy_qty"": 3, ""free_qty"": 0, ""flat_discount_rs"": 100.0}",1,2026-12-31 23:59:59
+sku_fortune_moong_dal_1kg,sup_shree_ganesh,packet,132.00,137.28,,1,2026-12-31 23:59:59
+sku_fortune_moong_dal_1kg,sup_raj_traders,packet,130.02,136.62,,1,2026-12-31 23:59:59
+sku_fortune_moong_dal_1kg,sup_malwa_fresh,packet,131.34,137.28,,1,2026-12-31 23:59:59
+sku_urad_dal_black_1kg,sup_shree_ganesh,packet,142.00,147.68,,1,2026-12-31 23:59:59
+sku_urad_dal_black_1kg,sup_raj_traders,packet,139.87,146.97,,1,2026-12-31 23:59:59
+sku_urad_dal_black_1kg,sup_malwa_fresh,packet,141.29,147.68,"{""buy_qty"": 5, ""flat_discount_rs"": 7}",1,2026-12-31 23:59:59
+sku_chana_dal_1kg,sup_shree_ganesh,packet,92.00,95.68,,1,2026-12-31 23:59:59
+sku_chana_dal_1kg,sup_raj_traders,packet,90.62,95.22,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_chana_dal_1kg,sup_malwa_fresh,packet,91.54,95.68,,1,2026-12-31 23:59:59
+sku_masoor_dal_1kg,sup_shree_ganesh,packet,108.00,112.32,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_masoor_dal_1kg,sup_raj_traders,packet,106.38,111.78,,1,2026-12-31 23:59:59
+sku_masoor_dal_1kg,sup_malwa_fresh,packet,107.46,112.32,,1,2026-12-31 23:59:59
+sku_chitra_rajma_1kg,sup_shree_ganesh,packet,155.00,161.20,,1,2026-12-31 23:59:59
+sku_chitra_rajma_1kg,sup_raj_traders,packet,152.68,160.42,,1,2026-12-31 23:59:59
+sku_chitra_rajma_1kg,sup_malwa_fresh,packet,154.22,161.20,,1,2026-12-31 23:59:59
+sku_kabuli_chana_1kg,sup_shree_ganesh,packet,148.00,153.92,,1,2026-12-31 23:59:59
+sku_kabuli_chana_1kg,sup_raj_traders,packet,145.78,153.18,,1,2026-12-31 23:59:59
+sku_kabuli_chana_1kg,sup_malwa_fresh,packet,147.26,153.92,,1,2026-12-31 23:59:59
+sku_bail_kolhu_1l,sup_shree_ganesh,peti,4200.00,4326.00,"{""buy_qty"": 5, ""free_qty"": 0, ""discount_pct"": 2.0}",1,2026-12-31 23:59:59
+sku_bail_kolhu_1l,sup_raj_traders,peti,4140.00,4300.00,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_bail_kolhu_1l,sup_malwa_fresh,peti,4250.00,4350.00,,1,2026-12-31 23:59:59
+sku_fortune_sunflower_1l,sup_shree_ganesh,peti,1680.00,1747.20,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_fortune_sunflower_1l,sup_raj_traders,peti,1654.80,1738.80,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_fortune_sunflower_1l,sup_malwa_fresh,peti,1671.60,1747.20,,1,2026-12-31 23:59:59
+sku_saffola_gold_1l,sup_shree_ganesh,packet,168.00,174.72,,1,2026-12-31 23:59:59
+sku_saffola_gold_1l,sup_raj_traders,packet,165.48,173.88,,1,2026-12-31 23:59:59
+sku_saffola_gold_1l,sup_malwa_fresh,packet,167.16,174.72,"{""buy_qty"": 5, ""flat_discount_rs"": 8}",1,2026-12-31 23:59:59
+sku_amul_pure_ghee_1l,sup_shree_ganesh,packet,610.00,634.40,,1,2026-12-31 23:59:59
+sku_amul_pure_ghee_1l,sup_raj_traders,packet,600.85,631.35,,1,2026-12-31 23:59:59
+sku_amul_pure_ghee_1l,sup_malwa_fresh,packet,606.95,634.40,,1,2026-12-31 23:59:59
+sku_dhara_groundnut_1l,sup_shree_ganesh,packet,185.00,192.40,,1,2026-12-31 23:59:59
+sku_dhara_groundnut_1l,sup_raj_traders,packet,182.22,191.47,,1,2026-12-31 23:59:59
+sku_dhara_groundnut_1l,sup_malwa_fresh,packet,184.07,192.40,,1,2026-12-31 23:59:59
+sku_dalda_vanaspati_1l,sup_shree_ganesh,packet,135.00,140.40,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_dalda_vanaspati_1l,sup_raj_traders,packet,132.97,139.72,,1,2026-12-31 23:59:59
+sku_dalda_vanaspati_1l,sup_malwa_fresh,packet,134.32,140.40,,1,2026-12-31 23:59:59
+sku_mdh_deggi_mirch_100g,sup_shree_ganesh,packet,72.00,74.88,,1,2026-12-31 23:59:59
+sku_mdh_deggi_mirch_100g,sup_raj_traders,packet,70.92,74.52,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_mdh_deggi_mirch_100g,sup_malwa_fresh,packet,71.64,74.88,,1,2026-12-31 23:59:59
+sku_everest_garam_masala_100g,sup_shree_ganesh,packet,68.00,70.72,,1,2026-12-31 23:59:59
+sku_everest_garam_masala_100g,sup_raj_traders,packet,66.98,70.38,,1,2026-12-31 23:59:59
+sku_everest_garam_masala_100g,sup_malwa_fresh,packet,67.66,70.72,,1,2026-12-31 23:59:59
+sku_catch_coriander_100g,sup_shree_ganesh,packet,48.00,49.92,,1,2026-12-31 23:59:59
+sku_catch_coriander_100g,sup_raj_traders,packet,47.28,49.68,,1,2026-12-31 23:59:59
+sku_catch_coriander_100g,sup_malwa_fresh,packet,47.76,49.92,,1,2026-12-31 23:59:59
+sku_tata_turmeric_100g,sup_shree_ganesh,packet,42.00,43.68,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_tata_turmeric_100g,sup_raj_traders,packet,41.37,43.47,,1,2026-12-31 23:59:59
+sku_tata_turmeric_100g,sup_malwa_fresh,packet,41.79,43.68,"{""buy_qty"": 5, ""flat_discount_rs"": 2}",1,2026-12-31 23:59:59
+sku_everest_chaat_100g,sup_shree_ganesh,packet,58.00,60.32,,1,2026-12-31 23:59:59
+sku_everest_chaat_100g,sup_raj_traders,packet,57.13,60.03,,1,2026-12-31 23:59:59
+sku_everest_chaat_100g,sup_malwa_fresh,packet,57.71,60.32,,1,2026-12-31 23:59:59
+sku_catch_jeera_200g,sup_shree_ganesh,packet,115.00,119.60,,1,2026-12-31 23:59:59
+sku_catch_jeera_200g,sup_raj_traders,packet,113.27,119.02,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_catch_jeera_200g,sup_malwa_fresh,packet,114.42,119.60,,1,2026-12-31 23:59:59
+sku_catch_rai_200g,sup_shree_ganesh,packet,55.00,57.20,,1,2026-12-31 23:59:59
+sku_catch_rai_200g,sup_raj_traders,packet,54.17,56.92,,1,2026-12-31 23:59:59
+sku_catch_rai_200g,sup_malwa_fresh,packet,54.73,57.20,,1,2026-12-31 23:59:59
+sku_everest_sambhar_100g,sup_shree_ganesh,packet,65.00,67.60,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_everest_sambhar_100g,sup_raj_traders,packet,64.03,67.27,,1,2026-12-31 23:59:59
+sku_everest_sambhar_100g,sup_malwa_fresh,packet,64.67,67.60,,1,2026-12-31 23:59:59
+sku_everest_chhole_100g,sup_shree_ganesh,packet,65.00,67.60,,1,2026-12-31 23:59:59
+sku_everest_chhole_100g,sup_raj_traders,packet,64.03,67.27,,1,2026-12-31 23:59:59
+sku_everest_chhole_100g,sup_malwa_fresh,packet,64.67,67.60,,1,2026-12-31 23:59:59
+sku_catch_hing_50g,sup_shree_ganesh,dabba,78.00,81.12,,1,2026-12-31 23:59:59
+sku_catch_hing_50g,sup_raj_traders,dabba,76.83,80.73,,1,2026-12-31 23:59:59
+sku_catch_hing_50g,sup_malwa_fresh,dabba,77.61,81.12,,1,2026-12-31 23:59:59
+sku_tata_salt_50kg,sup_shree_ganesh,bori,520.00,535.00,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_tata_salt_50kg,sup_raj_traders,bori,510.00,525.00,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_tata_salt_50kg,sup_malwa_fresh,bori,530.00,540.00,,1,2026-12-31 23:59:59
+sku_madhur_sugar_50kg,sup_shree_ganesh,katta,2120.00,2180.00,,1,2026-12-31 23:59:59
+sku_madhur_sugar_50kg,sup_raj_traders,katta,2150.00,2215.00,,1,2026-12-31 23:59:59
+sku_madhur_sugar_50kg,sup_malwa_fresh,katta,2080.00,2180.00,"{""buy_qty"": 5, ""free_qty"": 0, ""flat_discount_rs"": 25.0}",1,2026-12-31 23:59:59
+sku_tata_sendha_namak_1kg,sup_shree_ganesh,packet,85.00,88.40,,1,2026-12-31 23:59:59
+sku_tata_sendha_namak_1kg,sup_raj_traders,packet,83.72,87.97,,1,2026-12-31 23:59:59
+sku_tata_sendha_namak_1kg,sup_malwa_fresh,packet,84.58,88.40,,1,2026-12-31 23:59:59
+sku_kolhapuri_jaggery_1kg,sup_shree_ganesh,packet,65.00,67.60,,1,2026-12-31 23:59:59
+sku_kolhapuri_jaggery_1kg,sup_raj_traders,packet,64.03,67.27,,1,2026-12-31 23:59:59
+sku_kolhapuri_jaggery_1kg,sup_malwa_fresh,packet,64.67,67.60,,1,2026-12-31 23:59:59
+sku_tata_tea_gold_500g,sup_shree_ganesh,packet,235.00,244.40,,1,2026-12-31 23:59:59
+sku_tata_tea_gold_500g,sup_raj_traders,packet,231.47,243.22,,1,2026-12-31 23:59:59
+sku_tata_tea_gold_500g,sup_malwa_fresh,packet,233.82,244.40,,1,2026-12-31 23:59:59
+sku_red_label_tea_500g,sup_shree_ganesh,packet,225.00,234.00,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_red_label_tea_500g,sup_raj_traders,packet,221.62,232.87,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_red_label_tea_500g,sup_malwa_fresh,packet,223.88,234.00,,1,2026-12-31 23:59:59
+sku_taj_mahal_tea_500g,sup_shree_ganesh,packet,345.00,358.80,,1,2026-12-31 23:59:59
+sku_taj_mahal_tea_500g,sup_raj_traders,packet,339.82,357.07,,1,2026-12-31 23:59:59
+sku_taj_mahal_tea_500g,sup_malwa_fresh,packet,343.27,358.80,,1,2026-12-31 23:59:59
+sku_nescafe_classic_100g,sup_shree_ganesh,dabba,285.00,296.40,,1,2026-12-31 23:59:59
+sku_nescafe_classic_100g,sup_raj_traders,dabba,280.73,294.97,,1,2026-12-31 23:59:59
+sku_nescafe_classic_100g,sup_malwa_fresh,dabba,283.57,296.40,"{""buy_qty"": 5, ""flat_discount_rs"": 14}",1,2026-12-31 23:59:59
+sku_bournvita_500g,sup_shree_ganesh,dabba,265.00,275.60,,1,2026-12-31 23:59:59
+sku_bournvita_500g,sup_raj_traders,dabba,261.02,274.27,,1,2026-12-31 23:59:59
+sku_bournvita_500g,sup_malwa_fresh,dabba,263.68,275.60,,1,2026-12-31 23:59:59
+sku_rooh_afza_750ml,sup_shree_ganesh,bottle,185.00,192.40,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_rooh_afza_750ml,sup_raj_traders,bottle,182.22,191.47,,1,2026-12-31 23:59:59
+sku_rooh_afza_750ml,sup_malwa_fresh,bottle,184.07,192.40,,1,2026-12-31 23:59:59
+sku_parle_g_800g,sup_shree_ganesh,carton,1820.00,1892.80,,1,2026-12-31 23:59:59
+sku_parle_g_800g,sup_raj_traders,carton,1792.70,1883.70,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_parle_g_800g,sup_malwa_fresh,carton,1810.90,1892.80,,1,2026-12-31 23:59:59
+sku_good_day_cashew_600g,sup_shree_ganesh,packet,110.00,114.40,,1,2026-12-31 23:59:59
+sku_good_day_cashew_600g,sup_raj_traders,packet,108.35,113.85,,1,2026-12-31 23:59:59
+sku_good_day_cashew_600g,sup_malwa_fresh,packet,109.45,114.40,,1,2026-12-31 23:59:59
+sku_marie_gold_500g,sup_shree_ganesh,packet,78.00,81.12,,1,2026-12-31 23:59:59
+sku_marie_gold_500g,sup_raj_traders,packet,76.83,80.73,,1,2026-12-31 23:59:59
+sku_marie_gold_500g,sup_malwa_fresh,packet,77.61,81.12,,1,2026-12-31 23:59:59
+sku_parle_monaco_400g,sup_shree_ganesh,packet,65.00,67.60,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_parle_monaco_400g,sup_raj_traders,packet,64.03,67.27,,1,2026-12-31 23:59:59
+sku_parle_monaco_400g,sup_malwa_fresh,packet,64.67,67.60,,1,2026-12-31 23:59:59
+sku_parle_krackjack_400g,sup_shree_ganesh,packet,65.00,67.60,,1,2026-12-31 23:59:59
+sku_parle_krackjack_400g,sup_raj_traders,packet,64.03,67.27,,1,2026-12-31 23:59:59
+sku_parle_krackjack_400g,sup_malwa_fresh,packet,64.67,67.60,"{""buy_qty"": 5, ""flat_discount_rs"": 3}",1,2026-12-31 23:59:59
+sku_bourbon_biscuit_300g,sup_shree_ganesh,packet,72.00,74.88,,1,2026-12-31 23:59:59
+sku_bourbon_biscuit_300g,sup_raj_traders,packet,70.92,74.52,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_bourbon_biscuit_300g,sup_malwa_fresh,packet,71.64,74.88,,1,2026-12-31 23:59:59
+sku_haldiram_aloo_bhujia_400g,sup_shree_ganesh,packet,145.00,150.80,,1,2026-12-31 23:59:59
+sku_haldiram_aloo_bhujia_400g,sup_raj_traders,packet,142.82,150.07,,1,2026-12-31 23:59:59
+sku_haldiram_aloo_bhujia_400g,sup_malwa_fresh,packet,144.28,150.80,,1,2026-12-31 23:59:59
+sku_haldiram_ratlami_sev_400g,sup_shree_ganesh,packet,140.00,145.60,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_haldiram_ratlami_sev_400g,sup_raj_traders,packet,137.90,144.90,,1,2026-12-31 23:59:59
+sku_haldiram_ratlami_sev_400g,sup_malwa_fresh,packet,139.30,145.60,,1,2026-12-31 23:59:59
+sku_lays_magic_masala_52g,sup_shree_ganesh,packet,20.00,20.80,,1,2026-12-31 23:59:59
+sku_lays_magic_masala_52g,sup_raj_traders,packet,19.70,20.70,,1,2026-12-31 23:59:59
+sku_lays_magic_masala_52g,sup_malwa_fresh,packet,19.90,20.80,,1,2026-12-31 23:59:59
+sku_kurkure_masala_munch_90g,sup_shree_ganesh,packet,20.00,20.80,,1,2026-12-31 23:59:59
+sku_kurkure_masala_munch_90g,sup_raj_traders,packet,19.70,20.70,,1,2026-12-31 23:59:59
+sku_kurkure_masala_munch_90g,sup_malwa_fresh,packet,19.90,20.80,,1,2026-12-31 23:59:59
+sku_maggi_noodles_carton,sup_shree_ganesh,carton,1280.00,1331.20,,1,2026-12-31 23:59:59
+sku_maggi_noodles_carton,sup_raj_traders,carton,1260.80,1324.80,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_maggi_noodles_carton,sup_malwa_fresh,carton,1273.60,1331.20,,1,2026-12-31 23:59:59
+sku_yippee_noodles_carton,sup_shree_ganesh,carton,1220.00,1268.80,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_yippee_noodles_carton,sup_raj_traders,carton,1201.70,1262.70,,1,2026-12-31 23:59:59
+sku_yippee_noodles_carton,sup_malwa_fresh,carton,1213.90,1268.80,"{""buy_qty"": 5, ""flat_discount_rs"": 61}",1,2026-12-31 23:59:59
+sku_mtr_upma_mix_200g,sup_shree_ganesh,packet,92.00,95.68,,1,2026-12-31 23:59:59
+sku_mtr_upma_mix_200g,sup_raj_traders,packet,90.62,95.22,,1,2026-12-31 23:59:59
+sku_mtr_upma_mix_200g,sup_malwa_fresh,packet,91.54,95.68,,1,2026-12-31 23:59:59
+sku_gits_gulab_jamun_200g,sup_shree_ganesh,packet,112.00,116.48,,1,2026-12-31 23:59:59
+sku_gits_gulab_jamun_200g,sup_raj_traders,packet,110.32,115.92,,1,2026-12-31 23:59:59
+sku_gits_gulab_jamun_200g,sup_malwa_fresh,packet,111.44,116.48,,1,2026-12-31 23:59:59
+sku_amul_taaza_milk_1l,sup_shree_ganesh,packet,64.00,66.56,,1,2026-12-31 23:59:59
+sku_amul_taaza_milk_1l,sup_raj_traders,packet,63.04,66.24,,1,2026-12-31 23:59:59
+sku_amul_taaza_milk_1l,sup_malwa_fresh,packet,63.68,66.56,,1,2026-12-31 23:59:59
+sku_amul_butter_500g,sup_shree_ganesh,packet,285.00,296.40,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_amul_butter_500g,sup_raj_traders,packet,280.73,294.97,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_amul_butter_500g,sup_malwa_fresh,packet,283.57,296.40,,1,2026-12-31 23:59:59
+sku_amul_cheese_slices_200g,sup_shree_ganesh,packet,145.00,150.80,,1,2026-12-31 23:59:59
+sku_amul_cheese_slices_200g,sup_raj_traders,packet,142.82,150.07,,1,2026-12-31 23:59:59
+sku_amul_cheese_slices_200g,sup_malwa_fresh,packet,144.28,150.80,,1,2026-12-31 23:59:59
+sku_kelloggs_corn_flakes_475g,sup_shree_ganesh,packet,210.00,218.40,,1,2026-12-31 23:59:59
+sku_kelloggs_corn_flakes_475g,sup_raj_traders,packet,206.85,217.35,,1,2026-12-31 23:59:59
+sku_kelloggs_corn_flakes_475g,sup_malwa_fresh,packet,208.95,218.40,,1,2026-12-31 23:59:59
+sku_quaker_oats_1kg,sup_shree_ganesh,packet,185.00,192.40,,1,2026-12-31 23:59:59
+sku_quaker_oats_1kg,sup_raj_traders,packet,182.22,191.47,,1,2026-12-31 23:59:59
+sku_quaker_oats_1kg,sup_malwa_fresh,packet,184.07,192.40,"{""buy_qty"": 5, ""flat_discount_rs"": 9}",1,2026-12-31 23:59:59
+sku_kissan_ketchup_1kg,sup_shree_ganesh,packet,125.00,130.00,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_kissan_ketchup_1kg,sup_raj_traders,packet,123.12,129.38,,1,2026-12-31 23:59:59
+sku_kissan_ketchup_1kg,sup_malwa_fresh,packet,124.38,130.00,,1,2026-12-31 23:59:59
+sku_chings_schezwan_250g,sup_shree_ganesh,bottle,95.00,98.80,,1,2026-12-31 23:59:59
+sku_chings_schezwan_250g,sup_raj_traders,bottle,93.58,98.32,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_chings_schezwan_250g,sup_malwa_fresh,bottle,94.53,98.80,,1,2026-12-31 23:59:59
+sku_mothers_mango_pickle_500g,sup_shree_ganesh,dabba,155.00,161.20,,1,2026-12-31 23:59:59
+sku_mothers_mango_pickle_500g,sup_raj_traders,dabba,152.68,160.42,,1,2026-12-31 23:59:59
+sku_mothers_mango_pickle_500g,sup_malwa_fresh,dabba,154.22,161.20,,1,2026-12-31 23:59:59
+sku_lijjat_urad_papad_200g,sup_shree_ganesh,packet,75.00,78.00,,1,2026-12-31 23:59:59
+sku_lijjat_urad_papad_200g,sup_raj_traders,packet,73.88,77.62,,1,2026-12-31 23:59:59
+sku_lijjat_urad_papad_200g,sup_malwa_fresh,packet,74.62,78.00,,1,2026-12-31 23:59:59
+sku_happilo_almonds_500g,sup_shree_ganesh,packet,485.00,504.40,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_happilo_almonds_500g,sup_raj_traders,packet,477.72,501.97,,1,2026-12-31 23:59:59
+sku_happilo_almonds_500g,sup_malwa_fresh,packet,482.57,504.40,,1,2026-12-31 23:59:59
+sku_raisins_kishmish_500g,sup_shree_ganesh,packet,245.00,254.80,,1,2026-12-31 23:59:59
+sku_raisins_kishmish_500g,sup_raj_traders,packet,241.32,253.57,,1,2026-12-31 23:59:59
+sku_raisins_kishmish_500g,sup_malwa_fresh,packet,243.78,254.80,,1,2026-12-31 23:59:59
+sku_cashew_kaju_w320_250g,sup_shree_ganesh,packet,285.00,296.40,,1,2026-12-31 23:59:59
+sku_cashew_kaju_w320_250g,sup_raj_traders,packet,280.73,294.97,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_cashew_kaju_w320_250g,sup_malwa_fresh,packet,283.57,296.40,"{""buy_qty"": 5, ""flat_discount_rs"": 14}",1,2026-12-31 23:59:59
+sku_walnuts_akhrot_250g,sup_shree_ganesh,packet,320.00,332.80,,1,2026-12-31 23:59:59
+sku_walnuts_akhrot_250g,sup_raj_traders,packet,315.20,331.20,,1,2026-12-31 23:59:59
+sku_walnuts_akhrot_250g,sup_malwa_fresh,packet,318.40,332.80,,1,2026-12-31 23:59:59
+sku_lux_soap_100g,sup_shree_ganesh,packet,38.00,39.52,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_lux_soap_100g,sup_raj_traders,packet,37.43,39.33,,1,2026-12-31 23:59:59
+sku_lux_soap_100g,sup_malwa_fresh,packet,37.81,39.52,,1,2026-12-31 23:59:59
+sku_dettol_soap_125g,sup_shree_ganesh,packet,48.00,49.92,,1,2026-12-31 23:59:59
+sku_dettol_soap_125g,sup_raj_traders,packet,47.28,49.68,,1,2026-12-31 23:59:59
+sku_dettol_soap_125g,sup_malwa_fresh,packet,47.76,49.92,,1,2026-12-31 23:59:59
+sku_dove_shampoo_340ml,sup_shree_ganesh,bottle,285.00,296.40,,1,2026-12-31 23:59:59
+sku_dove_shampoo_340ml,sup_raj_traders,bottle,280.73,294.97,,1,2026-12-31 23:59:59
+sku_dove_shampoo_340ml,sup_malwa_fresh,bottle,283.57,296.40,,1,2026-12-31 23:59:59
+sku_colgate_maxfresh_150g,sup_shree_ganesh,packet,105.00,109.20,,1,2026-12-31 23:59:59
+sku_colgate_maxfresh_150g,sup_raj_traders,packet,103.42,108.67,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_colgate_maxfresh_150g,sup_malwa_fresh,packet,104.47,109.20,,1,2026-12-31 23:59:59
+sku_dettol_handwash_250ml,sup_shree_ganesh,bottle,95.00,98.80,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_dettol_handwash_250ml,sup_raj_traders,bottle,93.58,98.32,,1,2026-12-31 23:59:59
+sku_dettol_handwash_250ml,sup_malwa_fresh,bottle,94.53,98.80,,1,2026-12-31 23:59:59
+sku_whisper_ultra_20pads,sup_shree_ganesh,packet,185.00,192.40,,1,2026-12-31 23:59:59
+sku_whisper_ultra_20pads,sup_raj_traders,packet,182.22,191.47,,1,2026-12-31 23:59:59
+sku_whisper_ultra_20pads,sup_malwa_fresh,packet,184.07,192.40,"{""buy_qty"": 5, ""flat_discount_rs"": 9}",1,2026-12-31 23:59:59
+sku_surf_excel_matic_2kg,sup_shree_ganesh,packet,315.00,327.60,,1,2026-12-31 23:59:59
+sku_surf_excel_matic_2kg,sup_raj_traders,packet,310.27,326.02,,1,2026-12-31 23:59:59
+sku_surf_excel_matic_2kg,sup_malwa_fresh,packet,313.43,327.60,,1,2026-12-31 23:59:59
+sku_ariel_matic_liquid_1l,sup_shree_ganesh,bottle,265.00,275.60,,1,2026-12-31 23:59:59
+sku_ariel_matic_liquid_1l,sup_raj_traders,bottle,261.02,274.27,,1,2026-12-31 23:59:59
+sku_ariel_matic_liquid_1l,sup_malwa_fresh,bottle,263.68,275.60,,1,2026-12-31 23:59:59
+sku_wheel_green_lemon_1kg,sup_shree_ganesh,packet,72.00,74.88,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_wheel_green_lemon_1kg,sup_raj_traders,packet,70.92,74.52,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_wheel_green_lemon_1kg,sup_malwa_fresh,packet,71.64,74.88,,1,2026-12-31 23:59:59
+sku_rin_bar_250g,sup_shree_ganesh,packet,28.00,29.12,,1,2026-12-31 23:59:59
+sku_rin_bar_250g,sup_raj_traders,packet,27.58,28.98,,1,2026-12-31 23:59:59
+sku_rin_bar_250g,sup_malwa_fresh,packet,27.86,29.12,,1,2026-12-31 23:59:59
+sku_vim_dishwash_bar_200g,sup_shree_ganesh,packet,28.00,29.12,,1,2026-12-31 23:59:59
+sku_vim_dishwash_bar_200g,sup_raj_traders,packet,27.58,28.98,,1,2026-12-31 23:59:59
+sku_vim_dishwash_bar_200g,sup_malwa_fresh,packet,27.86,29.12,,1,2026-12-31 23:59:59
+sku_harpic_power_plus_1l,sup_shree_ganesh,bottle,185.00,192.40,,1,2026-12-31 23:59:59
+sku_harpic_power_plus_1l,sup_raj_traders,bottle,182.22,191.47,,1,2026-12-31 23:59:59
+sku_harpic_power_plus_1l,sup_malwa_fresh,bottle,184.07,192.40,,1,2026-12-31 23:59:59
+sku_lizol_floor_cleaner_2l,sup_shree_ganesh,bottle,245.00,254.80,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_lizol_floor_cleaner_2l,sup_raj_traders,bottle,241.32,253.57,,1,2026-12-31 23:59:59
+sku_lizol_floor_cleaner_2l,sup_malwa_fresh,bottle,243.78,254.80,"{""buy_qty"": 5, ""flat_discount_rs"": 12}",1,2026-12-31 23:59:59
+sku_colin_glass_cleaner_500ml,sup_shree_ganesh,bottle,95.00,98.80,,1,2026-12-31 23:59:59
+sku_colin_glass_cleaner_500ml,sup_raj_traders,bottle,93.58,98.32,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_colin_glass_cleaner_500ml,sup_malwa_fresh,bottle,94.53,98.80,,1,2026-12-31 23:59:59
+sku_kissan_mixed_jam_500g,sup_shree_ganesh,dabba,145.00,150.80,,1,2026-12-31 23:59:59
+sku_kissan_mixed_jam_500g,sup_raj_traders,dabba,142.82,150.07,,1,2026-12-31 23:59:59
+sku_kissan_mixed_jam_500g,sup_malwa_fresh,dabba,144.28,150.80,,1,2026-12-31 23:59:59
+sku_mtr_poha_500g,sup_shree_ganesh,packet,78.00,81.12,,1,2026-12-31 23:59:59
+sku_mtr_poha_500g,sup_raj_traders,packet,76.83,80.73,,1,2026-12-31 23:59:59
+sku_mtr_poha_500g,sup_malwa_fresh,packet,77.61,81.12,,1,2026-12-31 23:59:59
+sku_india_gate_daliya_500g,sup_shree_ganesh,packet,72.00,74.88,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_india_gate_daliya_500g,sup_raj_traders,packet,70.92,74.52,,1,2026-12-31 23:59:59
+sku_india_gate_daliya_500g,sup_malwa_fresh,packet,71.64,74.88,,1,2026-12-31 23:59:59
+sku_fresh_onion_kg,sup_shree_ganesh,kg,27.50,29.50,,1,2026-12-31 23:59:59
+sku_fresh_onion_kg,sup_raj_traders,kg,29.00,30.00,,1,2026-12-31 23:59:59
+sku_fresh_onion_kg,sup_malwa_fresh,kg,28.00,29.00,,1,2026-12-31 23:59:59
+sku_fresh_potato_kg,sup_shree_ganesh,kg,31.00,32.00,,1,2026-12-31 23:59:59
+sku_fresh_potato_kg,sup_raj_traders,kg,32.00,33.00,,1,2026-12-31 23:59:59
+sku_fresh_potato_kg,sup_malwa_fresh,kg,30.50,31.50,,1,2026-12-31 23:59:59
+sku_fresh_tomato_kg,sup_shree_ganesh,kg,48.00,49.92,,1,2026-12-31 23:59:59
+sku_fresh_tomato_kg,sup_raj_traders,kg,47.28,49.68,,1,2026-12-31 23:59:59
+sku_fresh_tomato_kg,sup_malwa_fresh,kg,47.76,49.92,"{""buy_qty"": 5, ""flat_discount_rs"": 2}",1,2026-12-31 23:59:59
+sku_fresh_garlic_lehsun_500g,sup_shree_ganesh,gram,95.00,98.80,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_fresh_garlic_lehsun_500g,sup_raj_traders,gram,93.58,98.32,,1,2026-12-31 23:59:59
+sku_fresh_garlic_lehsun_500g,sup_malwa_fresh,gram,94.53,98.80,,1,2026-12-31 23:59:59
+sku_fresh_ginger_adrak_250g,sup_shree_ganesh,gram,45.00,46.80,,1,2026-12-31 23:59:59
+sku_fresh_ginger_adrak_250g,sup_raj_traders,gram,44.33,46.57,,1,2026-12-31 23:59:59
+sku_fresh_ginger_adrak_250g,sup_malwa_fresh,gram,44.77,46.80,,1,2026-12-31 23:59:59
+sku_fresh_lemon_nimbu_500g,sup_shree_ganesh,gram,60.00,62.40,,1,2026-12-31 23:59:59
+sku_fresh_lemon_nimbu_500g,sup_raj_traders,gram,59.10,62.10,,1,2026-12-31 23:59:59
+sku_fresh_lemon_nimbu_500g,sup_malwa_fresh,gram,59.70,62.40,,1,2026-12-31 23:59:59
+sku_dabur_chyawanprash_500g,sup_shree_ganesh,dabba,245.00,254.80,,1,2026-12-31 23:59:59
+sku_dabur_chyawanprash_500g,sup_raj_traders,dabba,241.32,253.57,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_dabur_chyawanprash_500g,sup_malwa_fresh,dabba,243.78,254.80,,1,2026-12-31 23:59:59
+sku_eno_fruit_salt_100g,sup_shree_ganesh,bottle,115.00,119.60,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_eno_fruit_salt_100g,sup_raj_traders,bottle,113.27,119.02,,1,2026-12-31 23:59:59
+sku_eno_fruit_salt_100g,sup_malwa_fresh,bottle,114.42,119.60,,1,2026-12-31 23:59:59
+sku_vicks_vaporub_50g,sup_shree_ganesh,dabba,145.00,150.80,,1,2026-12-31 23:59:59
+sku_vicks_vaporub_50g,sup_raj_traders,dabba,142.82,150.07,,1,2026-12-31 23:59:59
+sku_vicks_vaporub_50g,sup_malwa_fresh,dabba,144.28,150.80,,1,2026-12-31 23:59:59
+sku_dettol_antiseptic_125ml,sup_shree_ganesh,bottle,78.00,81.12,,1,2026-12-31 23:59:59
+sku_dettol_antiseptic_125ml,sup_raj_traders,bottle,76.83,80.73,,1,2026-12-31 23:59:59
+sku_dettol_antiseptic_125ml,sup_malwa_fresh,bottle,77.61,81.12,"{""buy_qty"": 5, ""flat_discount_rs"": 3}",1,2026-12-31 23:59:59
+sku_moov_spray_50g,sup_shree_ganesh,bottle,165.00,171.60,,1,2026-12-31 23:59:59
+sku_moov_spray_50g,sup_raj_traders,bottle,162.53,170.77,,1,2026-12-31 23:59:59
+sku_moov_spray_50g,sup_malwa_fresh,bottle,164.18,171.60,,1,2026-12-31 23:59:59
+sku_zandu_balm_25ml,sup_shree_ganesh,dabba,45.00,46.80,"{""buy_qty"": 10, ""free_qty"": 1}",1,2026-12-31 23:59:59
+sku_zandu_balm_25ml,sup_raj_traders,dabba,44.33,46.57,"{""buy_qty"": 5, ""discount_pct"": 2.5}",1,2026-12-31 23:59:59
+sku_zandu_balm_25ml,sup_malwa_fresh,dabba,44.77,46.80,,1,2026-12-31 23:59:59
