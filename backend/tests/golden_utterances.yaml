@@ -1,0 +1,139 @@
+cases:
+  - id: golden_1_oil_sugar
+    utterance: "4 peti Bail Kolhu tel aur 2 katta chini"
+    expected_intent: new_order
+    expected_items:
+      - name: Bail Kolhu tel
+        quantity: 4.0
+        unit: peti
+      - name: chini
+        quantity: 2.0
+        unit: katta
+
+  - id: golden_2_dal_sugar
+    utterance: "3 bori arhar dal aur 2 katta chini"
+    expected_intent: new_order
+    expected_items:
+      - name: arhar dal
+        quantity: 3.0
+        unit: bori
+      - name: chini
+        quantity: 2.0
+        unit: katta
+
+  - id: golden_3_produce_colloquial
+    utterance: "5 kg pyaaz aur 10 kg aloo bhej do"
+    expected_intent: new_order
+    expected_items:
+      - name: pyaaz
+        quantity: 5.0
+        unit: kg
+      - name: aloo
+        quantity: 10.0
+        unit: kg
+
+  - id: golden_4_fraction_aadha
+    utterance: "aadha kilo chini"
+    expected_intent: new_order
+    expected_items:
+      - name: chini
+        quantity: 0.5
+        unit: kg
+
+  - id: golden_5_fractions_compound
+    utterance: "dedh bori arhar dal aur dhai peti tel"
+    expected_intent: new_order
+    expected_items:
+      - name: arhar dal
+        quantity: 1.5
+        unit: bori
+      - name: tel
+        quantity: 2.5
+        unit: peti
+
+  - id: golden_6_contextual_remove
+    utterance: "tel hata do"
+    draft_context:
+      - name: Bail Kolhu tel
+        quantity: 4.0
+        unit: peti
+      - name: chini
+        quantity: 2.0
+        unit: katta
+    expected_intent: remove_items
+    expected_items:
+      - name: tel
+
+  - id: golden_7_contextual_qty_change
+    utterance: "chini 2 katta kar do"
+    draft_context:
+      - name: chini
+        quantity: 5.0
+        unit: katta
+    expected_intent: change_quantity
+    expected_items:
+      - name: chini
+        quantity: 2.0
+        unit: katta
+
+  - id: golden_8_confirm
+    utterance: "theek hai order confirm kar do"
+    draft_context:
+      - name: Bail Kolhu tel
+        quantity: 4.0
+        unit: peti
+    expected_intent: confirm
+
+  - id: golden_9_cancel
+    utterance: "ruko cancel kar do"
+    draft_context:
+      - name: Bail Kolhu tel
+        quantity: 4.0
+        unit: peti
+    expected_intent: cancel
+
+  - id: golden_10_supplier_credit
+    utterance: "Shree Ganesh Foods se 2 bori tata salt bhej do udhari par"
+    expected_intent: new_order
+    expected_supplier: "Shree Ganesh Foods"
+    expected_payment_mode: credit_7d
+    expected_items:
+      - name: tata salt
+        quantity: 2.0
+        unit: bori
+
+  - id: golden_11_remember
+    utterance: "chai yaad dila dena"
+    expected_intent: remember_item
+    expected_items:
+      - name: chai
+
+  - id: golden_12_list_reminders
+    utterance: "meri reminder list dikhao"
+    expected_intent: list_reminders
+
+  - id: golden_13_confirm_item_disambiguation
+    utterance: "2 katta chini order kar do"
+    expected_intent: new_order
+    expected_items:
+      - name: chini
+        quantity: 2.0
+        unit: katta
+
+  - id: golden_14_confirm_with_draft
+    utterance: "order place kar do"
+    draft_context:
+      - name: Madhur Pure & Hygienic Sugar (50kg Katta)
+        quantity: 2.0
+        unit: katta
+    expected_intent: confirm
+    expected_clarification: false
+
+  - id: golden_15_confirm_without_draft
+    utterance: "order place kar do"
+    draft_context: []
+    expected_intent: confirm
+    expected_clarification: true
+
+
+
